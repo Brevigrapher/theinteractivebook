@@ -1,0 +1,45 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx19_denzer_cheese",
+  "protocol": "http://iiif.io/api/image",
+  "width": 3530,
+  "height": 1902,
+  "sizes": [
+    {
+      "width": 3530,
+      "height": 1902
+    },
+    {
+      "width": 250,
+      "height": 135
+    },
+    {
+      "width": 1140,
+      "height": 614
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}

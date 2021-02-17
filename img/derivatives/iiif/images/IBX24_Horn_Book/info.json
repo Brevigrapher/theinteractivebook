@@ -1,0 +1,45 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx24_horn_book",
+  "protocol": "http://iiif.io/api/image",
+  "width": 1254,
+  "height": 2082,
+  "sizes": [
+    {
+      "width": 1254,
+      "height": 2082
+    },
+    {
+      "width": 250,
+      "height": 415
+    },
+    {
+      "width": 1140,
+      "height": 1893
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}

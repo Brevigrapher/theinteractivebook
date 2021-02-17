@@ -1,0 +1,50 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ibx25_ames_almanack/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "ibx25_ames_almanack",
+  "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx25_ames_almanack/full/250,/0/default.jpg",
+  "viewingDirection": "left-to-right",
+  "viewingHint": "individuals",
+  "sequences": [
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/sequence/ibx25_ames_almanack.json",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@type": "sc:Canvas",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx25_ames_almanack.json",
+          "label": "front",
+          "width": 3207,
+          "height": 2835,
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx25_ames_almanack/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx25_ames_almanack.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx25_ames_almanack/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx25_ames_almanack",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 3207,
+                "height": 2835
+              },
+              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx25_ames_almanack.json"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "full": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx25_ames_almanack/full/full/0/default.jpg",
+  "fullwidth": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx25_ames_almanack/full/1140,/0/default.jpg"
+}

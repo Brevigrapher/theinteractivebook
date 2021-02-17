@@ -1,0 +1,50 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ibx12_jackson/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "ibx12_jackson",
+  "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx12_jackson/full/250,/0/default.jpg",
+  "viewingDirection": "left-to-right",
+  "viewingHint": "individuals",
+  "sequences": [
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/sequence/ibx12_jackson.json",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@type": "sc:Canvas",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx12_jackson.json",
+          "label": "front",
+          "width": 1639,
+          "height": 1527,
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx12_jackson/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx12_jackson.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx12_jackson/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx12_jackson",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 1639,
+                "height": 1527
+              },
+              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx12_jackson.json"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "full": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx12_jackson/full/full/0/default.jpg",
+  "fullwidth": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx12_jackson/full/1140,/0/default.jpg"
+}

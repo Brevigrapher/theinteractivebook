@@ -1,0 +1,38 @@
+---
+layout: none
+---
+{
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/sequence/ibx20_mattioli.json",
+  "@type": "sc:Sequence",
+  "canvases": [
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx20_mattioli.json",
+      "label": "front",
+      "width": 1407,
+      "height": 1430,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx20_mattioli/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx20_mattioli.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx20_mattioli/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx20_mattioli",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 1407,
+            "height": 1430
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx20_mattioli.json"
+        }
+      ]
+    }
+  ],
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}
