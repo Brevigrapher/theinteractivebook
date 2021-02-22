@@ -4,7 +4,7 @@ label: Elizabeth Robins Papers
 creator: Robins, Elizabeth
 location: Alaska
 _date: '1900'
-catalog_record_permalink: 'https://bobcat.library.nyu.edu/permalink/f/ci13eu/nyu_aleph006049994'
+catalog_record_permalink: https://bobcat.library.nyu.edu/permalink/f/ci13eu/nyu_aleph006049994
 maneuver: Fill
 description: This card sent by American-born writer, actress and suffragist Elizabeth
   Robins (1862-1952), a resident of England, from Alaska in 1900 to Florence Bell

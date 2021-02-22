@@ -6,7 +6,7 @@ label: 'Sententiae veterum poetarum: a Georgio Maoire, primum collect[a]e, & per
 creator: Major, Georg
 location: Antverpiae
 _date: '1574'
-catalog_record_permalink: 'https://bobcat.library.nyu.edu/permalink/f/ci13eu/nyu_aleph000981043'
+catalog_record_permalink: https://bobcat.library.nyu.edu/permalink/f/ci13eu/nyu_aleph000981043
 maneuver: Gather
 description: 'Georg Major (1520-1589) was a Lutheran theologian who played a prominent
   role in the Protestant Reformation. His book is a commonplace book in the most traditional,

@@ -5,7 +5,7 @@ label: Britannia sive Florentissimorvm regnorvm Angliae, Scotiae, Hinberniae, et
 creator: Camden, William
 location: Londini
 _date: '1607'
-catalog_record_permalink: 'https://bobcat.library.nyu.edu/permalink/f/1c17uag/nyu_aleph003271029'
+catalog_record_permalink: https://bobcat.library.nyu.edu/permalink/f/1c17uag/nyu_aleph003271029
 maneuver: Fill
 description: William Camden’s Britannia was first published in 1586. The 6th edition,
   published in 1607, was the first folio sized edition, as well as the first to include

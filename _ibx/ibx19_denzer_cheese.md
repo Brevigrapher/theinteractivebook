@@ -5,7 +5,7 @@ creator:
 location:
 _date:
 catalog_record_permalink:
-maneuver:
+maneuver: Uncategorized
 description:
 order: '18'
 layout: ibx_item

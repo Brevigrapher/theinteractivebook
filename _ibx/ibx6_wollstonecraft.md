@@ -4,7 +4,7 @@ label: A Vindication of the Rights of Woman
 creator: Wollstonecraft, Mary
 location: Boston
 _date: '1792'
-catalog_record_permalink: 'https://bobcat.library.nyu.edu/permalink/f/1c17uag/nyu_aleph001366096'
+catalog_record_permalink: https://bobcat.library.nyu.edu/permalink/f/1c17uag/nyu_aleph001366096
 maneuver: Fill
 description: This American edition of Mary Wollstonecraft’s early feminist manifesto
   was owned and read by a responsive reader whose interactions with the text surface

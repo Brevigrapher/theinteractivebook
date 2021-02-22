@@ -5,7 +5,7 @@ label: Icones, id est verae imagines virorum doctrina simul et pietate illustriu
 creator: Bèze, Théodore de
 location: Geneuae
 _date: '1580'
-catalog_record_permalink: 'https://library.nyu.edu/persistent/lcn/nyu_aleph000922502?institution=NYU&persistent'
+catalog_record_permalink: https://library.nyu.edu/persistent/lcn/nyu_aleph000922502?institution=NYU&persistent
 maneuver: Fill
 description: 'Théodore de Bèze (1519-1605 ) was a prominent French Calvinist theologian.
   His Icones consists of two parts: the first is a gallery of notable religious figures

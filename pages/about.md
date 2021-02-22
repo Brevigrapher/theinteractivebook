@@ -1,48 +1,49 @@
 ---
 layout: page
-title: What is Wax?
+title: About
 permalink: /about/
+banner:
+  collection: ibx
+  pid: ibx11_blechynden
+  y: 50%
+#  height: '550px'
 ---
 
-**Wax helps you create digital exhibits.**   
-A digital exhibit is a collection of curated cultural artifacts—manuscripts, paintings, photographs, sculptures, etc—often accompanied by an explicit narrative or argument. Though Wax focuses on images and text, it could be used for sound or video collections with some customization.
+### About the Curator
 
-**Wax is an extensible workflow based on minimal computing principles.**  
-Wax is hyper-aware of differences in resources, control and access around the world and close to home. As a result, it is purposefully lightweight: a few Ruby gems, some customizable UI components, good documentation and (hopefully soon!) recipes for creating, deploying, and maintaining custom digital exhibitions.
-
-**The exhibition sites created by Wax are static.**  
-This means they consist of flat HTML, CSS, and JavaScript files that don't need to communicate in a complex way back to a server. This makes them cheaper, safer, and generally easier to maintain.
-
-**The skills needed to create Wax sites are agnostic.**  
-This means they are largely transferable for use in other digital projects. 'Learning Wax' does not mean learning how to use a platform. It involves learning the fundamentals of web development, data management, and [plain text editing](https://zapier.com/blog/beginner-ultimate-guide-markdown/) while leveraging a few great open source libraries and frameworks along the way.
-
-**Wax keeps the collection presentation separate from the collection data.**  
-The Wax workflow starts with making standardized image files and metadata records and builds around them, handling canonical information, scholarly content, and site styling differently and deliberately. This makes it easier for you or others to share, reuse and reimagine your collection data in other contexts.
-
-## Who is Wax for?
-
-Wax was created for individuals and groups who either don't have or don't want to use a lot of resources to create their scholarly or cultural exhibits. It's best suited for folks who are willing to take on some technical responsibility in exchange for a lot of flexibility.
-
-For beginners, Wax has a relatively high, but general-purpose learning curve. To get the most out of Wax, you should have some familiarity with:
-
-- Using an interactive shell (e.g., Bash/Terminal) to install and interact with programs, files, and directories on your local computer.
-- Using Git and GitHub to version control and collaborate on projects.
-- Using Jekyll to generate static sites.
-- Creating and normalizing data files (e.g., CSV, JSON, YAML)
-- Using file-naming conventions and best practices.
-- Editing HTML, CSS, and some JavaScript.
-
-**However, Wax is also great for teaching or learning the skills above!** For examples of digital pedagogy via the creation of Wax exhibitions, check out [this workshop](https://www.columbia.edu/content/events/introduction-minimal-computing-humanities-building-exhibit-primary-sources-using-wax), [this GitHub repository](https://github.com/stylerevolution/stylerevolution.github.io), and [this custom Wax site](https://stylerevolution.github.io/).
-
-**Wax is also phenomenal for professionals who play a facilitating role**, such as Digital Scholarship Librarians or Coordinators. With some practice, Wax substantially reduces the time to production and post-production maintenance costs for you and your team. In the most common scenario, students, faculty, colleagues or any other collaborators just have to provide you with a properly formatted spreadsheet and the text for the exhibits. The extras are up to you.
+Julie Park, Princeton PhD, UCLA MLIS, is Assistant Curator and Provostial Fellow of NYU Special Collections. She is the author of The Self and It (Stanford University Press, 2010), editor of special issues for such journals as Word and Image (forthcoming) and Eighteenth-Century Fiction, and co-editor of Organic Supplements (University of Virginia Press, 2020). Her book My Dark Room (under contract, University of Chicago Press), takes the camera obscura as a conceptual model for understanding the designs and experiences of interior spaces in 17th- and 18th-century England. At NYU she is researching and writing a book on the materiality of life writing and self-inscription formats in the eighteenth century, Writing’s Maker, and teaches a book history seminar. She has been awarded many research awards, including long-term fellowships at the Folger Shakespeare Library and the Huntington Library. In 2020 she was the winner of the American Library Association’s Justin Winsor Library History Essay Prize Award.
 
 
-## So what does the Wax workflow *look like?*
+### Digital Humanities Technology Specialist
 
-Below is a diagram to give you a zoomed-out view. In summary, you create a file of metadata records for your collection (in CSV, YAML, or JSON format), organize your collection image files, and put both in the Jekyll site folder. After updating your configuration, you run a few command line tasks to prepare the data and metadata for use by the Jekyll site. Jekyll then uses special layouts and Wax components to build the exhibit and spits them out as static pages ready to publish.
+Marii Nyrop works on digital humanities projects at NYU.
 
-From there, you can run tests on your site to catch errors and decide where and how to put it online or in offline media.
 
-<a href="{{ '/img/wax_workflow.jpg' | absolute_url }}">
-  <img src="{{ '/img/wax_workflow.jpg' | absolute_url }}"/>
-</a>
+### Seeing Items in Person
+
+The materials in this exhibition are held by the <a href="https://library.nyu.edu/locations/special-collections-center/">Special Collections Center</a> of <a href="https://library.nyu.edu">New York University Libraries</a>. The reading room is now closed to non-NYU affiliated visitors. When it reopens to all users, non-NYU affiliated individuals may request an appointment to view them.
+
+
+### Related Events
+A full program of events to accompany this exhibition has been scheduled for March-April 2021.
+
+March 5, 2021  
+<a href="https://www.eventbrite.com/e/interactive-book-symposium-tickets-140949500751">The Interactive Book Symposium</a>  
+Gabrielle Dean, Marissa Nicosia, Jacqeline Reid-Walsh, and Suzanne Karr Schmidt
+
+March 17, 2021  
+<a href="https://www.eventbrite.com/e/opening-the-interactive-book-tickets-141179003199">Public Lecture: Opening the Interactive Book</a>  
+Julie Park
+
+April 8, 2021  
+<a href="https://www.eventbrite.com/e/how-the-sausage-gets-eaten-artists-books-as-an-interactive-medium-tickets-141190902791">Public Lecture: How the Sausage Gets Eaten</a>  
+Ben Denzer
+
+April 14  
+<a href="https://www.eventbrite.com/e/how-to-make-your-own-interactive-paper-flag-book-tickets-141194000055">Workshop: How to Make Your Own Interactive Paper Flag Book</a> (limited to 25 participants)  
+Roni Gross
+
+
+*Special thanks to Charlotte Priddle, Nicholas Martin, Felix Esquival, Kent Underwood and Gabrielle Dean for their invaluable roles in supporting this exhibition.*
+
+*I am grateful to David Selis and Michelle Margolis for providing help in interpreting the Sefer ‘Evronot.*

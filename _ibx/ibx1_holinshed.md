@@ -4,7 +4,7 @@ label: The Firste[-laste] volume of the Chronicles of England, Scotland, and Ire
 creator: Holinshed, Raphael
 location: Geneuae
 _date: '1577'
-catalog_record_permalink: 'https://bobcat.library.nyu.edu/permalink/f/1c17uag/nyu_aleph003271029'
+catalog_record_permalink: https://bobcat.library.nyu.edu/permalink/f/1c17uag/nyu_aleph003271029
 maneuver: Fill
 description: This copy of the first edition of Holinshed’s Chronicles bears the marks
   of its owner in the margins and on blank pages. A collaboratively written history

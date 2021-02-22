@@ -5,7 +5,7 @@ label: 'The Holy Bible : conteyning the Old Testament, and the New...appointed t
 creator: Smith, Miles (Bishop of Gloucestor)
 location: London
 _date: '1611'
-catalog_record_permalink: 'https://bobcat.library.nyu.edu/permalink/f/1c17uag/nyu_aleph000595219'
+catalog_record_permalink: https://bobcat.library.nyu.edu/permalink/f/1c17uag/nyu_aleph000595219
 maneuver: Gather
 description: This copy of the first edition of the culturally all-important King James
   Bible was used by a family for several generations. The book’s physical elements,

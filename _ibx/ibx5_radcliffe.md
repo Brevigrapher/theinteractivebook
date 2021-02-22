@@ -4,7 +4,7 @@ label: A Sicilian Romance
 creator: Radcliffe, Ann
 location: London
 _date: '1790'
-catalog_record_permalink: 'https://bobcat.library.nyu.edu/permalink/f/1c17uag/nyu_aleph000758721'
+catalog_record_permalink: https://bobcat.library.nyu.edu/permalink/f/1c17uag/nyu_aleph000758721
 maneuver: Fill
 description: This copy of Ann Radcliffe’s novel A Sicilian Romance (1790) is unusual
   for being extra-illustrated, as the copy of Stow’s Survey HYPERLINK “SURVEY” in

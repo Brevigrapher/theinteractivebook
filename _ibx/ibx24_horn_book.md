@@ -4,7 +4,7 @@ label: Horn Book
 creator: Unknown
 location: England
 _date: '1750'
-catalog_record_permalink: cm. https://bobcat.library.nyu.edu/permalink/f/ci13eu/nyu_aleph004208062
+catalog_record_permalink: https://bobcat.library.nyu.edu/permalink/f/ci13eu/nyu_aleph004208062
 maneuver: Use
 description: The alphabet, as literature scholar Patricia Crain puts it, is “the first
   step to literacy training.” Horn books had been used for teaching the alphabet since

@@ -1,0 +1,280 @@
+---
+layout: none
+---
+[
+  {
+    "pid": "ibx19_denzer_cheese",
+    "label": null,
+    "creator": null,
+    "location": null,
+    "maneuver": "Uncategorized",
+    "collection": "ibx",
+    "thumbnail": "/img/derivatives/iiif/images/ibx19_denzer_cheese/full/250,/0/default.jpg",
+    "permalink": "/ibx/ibx19_denzer_cheese",
+    "lunr_id": 0
+  },
+  {
+    "pid": "ibx18_denzer_trifold",
+    "label": "Ninety One at Sixty Ninth: Twenty Three Poems",
+    "creator": "Denzer, Ben",
+    "location": "New York",
+    "maneuver": "Turn",
+    "collection": "ibx",
+    "thumbnail": "/img/derivatives/iiif/images/ibx18_denzer_trifold/full/250,/0/default.jpg",
+    "permalink": "/ibx/ibx18_denzer_trifold",
+    "lunr_id": 1
+  },
+  {
+    "pid": "ibx16_rose_merton",
+    "label": "Deans New Dress Book: Rose Merton, the Little Orphan ",
+    "creator": "Adomeit, Ruth E. and Frederick Calvert (illustrator)",
+    "location": "London",
+    "maneuver": "Turn",
+    "collection": "ibx",
+    "thumbnail": "/img/derivatives/iiif/images/ibx16_rose_merton/full/250,/0/default.jpg",
+    "permalink": "/ibx/ibx16_rose_merton",
+    "lunr_id": 2
+  },
+  {
+    "pid": "ibx23_smith_eliza",
+    "label": null,
+    "creator": null,
+    "location": null,
+    "maneuver": "Uncategorized",
+    "collection": "ibx",
+    "thumbnail": "/img/derivatives/iiif/images/ibx23_smith_eliza/full/250,/0/default.jpg",
+    "permalink": "/ibx/ibx23_smith_eliza",
+    "lunr_id": 3
+  },
+  {
+    "pid": "ibx20_mattioli",
+    "label": "New Kreüterbuch",
+    "creator": "Mattioli, Pietro Andrea and Georg Handsch (translator)",
+    "location": "Prag",
+    "maneuver": "Use",
+    "collection": "ibx",
+    "thumbnail": "/img/derivatives/iiif/images/ibx20_mattioli/full/250,/0/default.jpg",
+    "permalink": "/ibx/ibx20_mattioli",
+    "lunr_id": 4
+  },
+  {
+    "pid": "ibx24_horn_book",
+    "label": "Horn Book",
+    "creator": "Unknown",
+    "location": "England",
+    "maneuver": "Use",
+    "collection": "ibx",
+    "thumbnail": "/img/derivatives/iiif/images/ibx24_horn_book/full/250,/0/default.jpg",
+    "permalink": "/ibx/ibx24_horn_book",
+    "lunr_id": 5
+  },
+  {
+    "pid": "ibx4_stow",
+    "label": "A Survey of the cities of London and Westminster, 6th edition",
+    "creator": "Stow, John and John Strype",
+    "location": "London",
+    "maneuver": "Fill",
+    "collection": "ibx",
+    "thumbnail": "/img/derivatives/iiif/images/ibx4_stow/full/250,/0/default.jpg",
+    "permalink": "/ibx/ibx4_stow",
+    "lunr_id": 6
+  },
+  {
+    "pid": "ibx15_oracle_fan",
+    "label": "Oracle; Book of Fate lady’s fan",
+    "creator": "manufacturer/printer not identified",
+    "location": "London",
+    "maneuver": "Turn",
+    "collection": "ibx",
+    "thumbnail": "/img/derivatives/iiif/images/ibx15_oracle_fan/full/250,/0/default.jpg",
+    "permalink": "/ibx/ibx15_oracle_fan",
+    "lunr_id": 7
+  },
+  {
+    "pid": "ibx8_maiore",
+    "label": "Sententiae veterum poetarum: a Georgio Maoire, primum collect[a]e, & per locos communes digestae, nu[n]c vero dilige[n]ter reocgnitae, & ex ipsis auctoribus, vt hodie editi sunt, castigatae.",
+    "creator": "Major, Georg",
+    "location": "Antverpiae",
+    "maneuver": "Gather",
+    "collection": "ibx",
+    "thumbnail": "/img/derivatives/iiif/images/ibx8_maiore/full/250,/0/default.jpg",
+    "permalink": "/ibx/ibx8_maiore",
+    "lunr_id": 8
+  },
+  {
+    "pid": "ibx5_radcliffe",
+    "label": "A Sicilian Romance",
+    "creator": "Radcliffe, Ann",
+    "location": "London",
+    "maneuver": "Fill",
+    "collection": "ibx",
+    "thumbnail": "/img/derivatives/iiif/images/ibx5_radcliffe/full/250,/0/default.jpg",
+    "permalink": "/ibx/ibx5_radcliffe",
+    "lunr_id": 9
+  },
+  {
+    "pid": "ibx7_robins_postcard",
+    "label": "Elizabeth Robins Papers",
+    "creator": "Robins, Elizabeth",
+    "location": "Alaska",
+    "maneuver": "Fill",
+    "collection": "ibx",
+    "thumbnail": "/img/derivatives/iiif/images/ibx7_robins_postcard/full/250,/0/default.jpg",
+    "permalink": "/ibx/ibx7_robins_postcard",
+    "lunr_id": 10
+  },
+  {
+    "pid": "ibx1_holinshed",
+    "label": "The Firste[-laste] volume of the Chronicles of England, Scotland, and Irelande",
+    "creator": "Holinshed, Raphael",
+    "location": "Geneuae",
+    "maneuver": "Fill",
+    "collection": "ibx",
+    "thumbnail": "/img/derivatives/iiif/images/ibx1_holinshed/full/250,/0/default.jpg",
+    "permalink": "/ibx/ibx1_holinshed",
+    "lunr_id": 11
+  },
+  {
+    "pid": "ibx6_wollstonecraft",
+    "label": "A Vindication of the Rights of Woman",
+    "creator": "Wollstonecraft, Mary",
+    "location": "Boston",
+    "maneuver": "Fill",
+    "collection": "ibx",
+    "thumbnail": "/img/derivatives/iiif/images/ibx6_wollstonecraft/full/250,/0/default.jpg",
+    "permalink": "/ibx/ibx6_wollstonecraft",
+    "lunr_id": 12
+  },
+  {
+    "pid": "ibx13_unbearables",
+    "label": null,
+    "creator": null,
+    "location": null,
+    "maneuver": "Uncategorized",
+    "collection": "ibx",
+    "thumbnail": "/img/derivatives/iiif/images/ibx13_unbearables/full/250,/0/default.jpg",
+    "permalink": "/ibx/ibx13_unbearables",
+    "lunr_id": 13
+  },
+  {
+    "pid": "ibx10_smith_martha",
+    "label": "[Martha Smith Her Book]",
+    "creator": "Smith, Martha",
+    "location": "England",
+    "maneuver": "Gather",
+    "collection": "ibx",
+    "thumbnail": "/img/derivatives/iiif/images/ibx10_smith_martha/full/250,/0/default.jpg",
+    "permalink": "/ibx/ibx10_smith_martha",
+    "lunr_id": 14
+  },
+  {
+    "pid": "ibx17_mother_hubbard",
+    "label": "Old Mother Hubbard: Magical Changes with Mother Goose Melodies",
+    "creator": "Martin, Sarah Catherine and William Ludwell Sheppard (illustrator)",
+    "location": "New York",
+    "maneuver": "Turn",
+    "collection": "ibx",
+    "thumbnail": "/img/derivatives/iiif/images/ibx17_mother_hubbard/full/250,/0/default.jpg",
+    "permalink": "/ibx/ibx17_mother_hubbard",
+    "lunr_id": 15
+  },
+  {
+    "pid": "ibx9_bible",
+    "label": "The Holy Bible : conteyning the Old Testament, and the New...appointed to be read in churches.",
+    "creator": "Smith, Miles (Bishop of Gloucestor)",
+    "location": "London",
+    "maneuver": "Gather",
+    "collection": "ibx",
+    "thumbnail": "/img/derivatives/iiif/images/ibx9_bible/full/250,/0/default.jpg",
+    "permalink": "/ibx/ibx9_bible",
+    "lunr_id": 16
+  },
+  {
+    "pid": "ibx14_hevelius",
+    "label": "Selenographia, sive, Lunae descriptio",
+    "creator": "Hevelii, Johannis",
+    "location": "Gedani",
+    "maneuver": "Turn",
+    "collection": "ibx",
+    "thumbnail": "/img/derivatives/iiif/images/ibx14_hevelius/full/250,/0/default.jpg",
+    "permalink": "/ibx/ibx14_hevelius",
+    "lunr_id": 17
+  },
+  {
+    "pid": "ibx25_ames_almanack",
+    "label": "An Astronomical Diary, or Almanack for the Year of our Lord Christ 1769",
+    "creator": "Ames, Nathaniel",
+    "location": "Boston",
+    "maneuver": "Use",
+    "collection": "ibx",
+    "thumbnail": "/img/derivatives/iiif/images/ibx25_ames_almanack/full/250,/0/default.jpg",
+    "permalink": "/ibx/ibx25_ames_almanack",
+    "lunr_id": 18
+  },
+  {
+    "pid": "ibx22_hebrew_calendar_wheel",
+    "label": "Sefer ‘Evronot",
+    "creator": "Eliʻezer ben Yaʻaḳov Belin Ashkenaz",
+    "location": "ʼOfi Bakh",
+    "maneuver": "Use",
+    "collection": "ibx",
+    "thumbnail": "/img/derivatives/iiif/images/ibx22_hebrew_calendar_wheel/full/250,/0/default.jpg",
+    "permalink": "/ibx/ibx22_hebrew_calendar_wheel",
+    "lunr_id": 19
+  },
+  {
+    "pid": "ibx2_beze",
+    "label": "Icones, id est verae imagines virorum doctrina simul et pietate illustrium [...] quibus adiectae sunt nonnullae picturae quas Emblemata vocant.",
+    "creator": "Bèze, Théodore de",
+    "location": "Geneuae",
+    "maneuver": "Fill",
+    "collection": "ibx",
+    "thumbnail": "/img/derivatives/iiif/images/ibx2_beze/full/250,/0/default.jpg",
+    "permalink": "/ibx/ibx2_beze",
+    "lunr_id": 20
+  },
+  {
+    "pid": "ibx12_jackson",
+    "label": "Patchwork Girl by Mary/Shelley and Herself: a graveyard, a journal, a quilt, a story & broken accents",
+    "creator": "Jackson, Shelley",
+    "location": "Watertown, MA",
+    "maneuver": "Gather",
+    "collection": "ibx",
+    "thumbnail": "/img/derivatives/iiif/images/ibx12_jackson/full/250,/0/default.jpg",
+    "permalink": "/ibx/ibx12_jackson",
+    "lunr_id": 21
+  },
+  {
+    "pid": "ibx21_archer",
+    "label": "A Compendious Herbal",
+    "creator": "Archer, John",
+    "location": "London",
+    "maneuver": "Use",
+    "collection": "ibx",
+    "thumbnail": "/img/derivatives/iiif/images/ibx21_archer/full/250,/0/default.jpg",
+    "permalink": "/ibx/ibx21_archer",
+    "lunr_id": 22
+  },
+  {
+    "pid": "ibx3_camden",
+    "label": "Britannia sive Florentissimorvm regnorvm Angliae, Scotiae, Hinberniae, et insularum adiacentium ex intima antiquitate chorographica descriptio",
+    "creator": "Camden, William",
+    "location": "Londini",
+    "maneuver": "Fill",
+    "collection": "ibx",
+    "thumbnail": "/img/derivatives/iiif/images/ibx3_camden/full/250,/0/default.jpg",
+    "permalink": "/ibx/ibx3_camden",
+    "lunr_id": 23
+  },
+  {
+    "pid": "ibx11_blechynden",
+    "label": "[Commonplace Book]/manuscript",
+    "creator": "Blechynden, Jane Harriet",
+    "location": "Great Britain",
+    "maneuver": "Gather",
+    "collection": "ibx",
+    "thumbnail": "/img/derivatives/iiif/images/ibx11_blechynden/full/250,/0/default.jpg",
+    "permalink": "/ibx/ibx11_blechynden",
+    "lunr_id": 24
+  }
+]

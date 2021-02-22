@@ -4,7 +4,7 @@ label: A Survey of the cities of London and Westminster, 6th edition
 creator: Stow, John and John Strype
 location: London
 _date: '1754'
-catalog_record_permalink: 'https://library.nyu.edu/persistent/lcn/nyu_aleph003081356?institution=NYU&persistent'
+catalog_record_permalink: https://library.nyu.edu/persistent/lcn/nyu_aleph003081356?institution=NYU&persistent
 maneuver: Fill
 description: This copy of John Stow’s Survey of London, as many extra-illustrated
   books do, includes several foldout prints. Stow (1525-1605), like William Camden
