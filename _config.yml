@@ -108,14 +108,18 @@ menu:
     link: '/about/'
   - label: 'Exhibits'
     sub:
-      - label: 'Inline Parallax Image'
-        link: '/exhibits/a/'
-      - label: 'Inline Image References'
-        link: '/exhibits/b/'
-  - label: 'Browse'
-    link: '/collection/'
-  - label: 'Search'
-    link: '/search/'
+      - label: 'Fill'
+        link: '/exhibits/fill/'
+      - label: 'Gather'
+        link: '/exhibits/gather/'
+      - label: 'Turn'
+        link: '/exhibits/turn/'
+      - label: 'Use'
+        link: '/exhibits/use/'
+  - label: 'Sources'
+    link: '/sources/'
+  - label: 'Handlist'
+    link: '/handlist/'
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS
