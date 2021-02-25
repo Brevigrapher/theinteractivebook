@@ -17,4 +17,4 @@ The books can easily fall into more than one category; acts of turning a book’
 
 ## Browse Exhibits
 
-### [Fill]({{ '/exhibits/fill' | absolute_url }}) – [Gather]({{ '/exhibits' | absolute_url }}) – [Turn]({{ '/exhibits' | absolute_url }}) – [Use]({{ '/exhibits' | absolute_url }})
+### [Fill]({{ '/exhibits/fill' | absolute_url }}) – [Gather]({{ '/exhibits/gather' | absolute_url }}) – [Turn]({{ '/exhibits/turn' | absolute_url }}) – [Use]({{ '/exhibits/use' | absolute_url }})
