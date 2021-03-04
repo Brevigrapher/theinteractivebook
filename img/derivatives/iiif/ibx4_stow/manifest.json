@@ -46,5 +46,7 @@ layout: none
     }
   ],
   "full": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx4_stow/full/full/0/default.jpg",
-  "fullwidth": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx4_stow/full/1140,/0/default.jpg"
+  "fullwidth": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx4_stow/full/1140,/0/default.jpg",
+  "osd": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx4_stow/full/501,/0/default.jpg",
+  "tiny": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx4_stow/full/90,/0/default.jpg"
 }

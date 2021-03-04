@@ -6,45 +6,103 @@ layout: none
   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ibx22_hebrew_calendar_wheel/manifest.json",
   "@type": "sc:Manifest",
   "label": "ibx22_hebrew_calendar_wheel",
-  "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx22_hebrew_calendar_wheel/full/250,/0/default.jpg",
+  "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx22_hebrew_calendar_wheel_hebrewcalendar1/full/250,/0/default.jpg",
   "viewingDirection": "left-to-right",
   "viewingHint": "individuals",
   "sequences": [
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/sequence/ibx22_hebrew_calendar_wheel.json",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/sequence/ibx22_hebrew_calendar_wheel_hebrewcalendar1.json",
       "@type": "sc:Sequence",
       "canvases": [
         {
           "@type": "sc:Canvas",
-          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx22_hebrew_calendar_wheel.json",
-          "label": "front",
-          "width": 2949,
-          "height": 3602,
-          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx22_hebrew_calendar_wheel/full/250,/0/default.jpg",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx22_hebrew_calendar_wheel_hebrewcalendar1.json",
+          "label": "Page 1",
+          "width": 2099,
+          "height": 2454,
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx22_hebrew_calendar_wheel_hebrewcalendar1/full/250,/0/default.jpg",
           "images": [
             {
               "@type": "oa:Annotation",
-              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx22_hebrew_calendar_wheel.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx22_hebrew_calendar_wheel_hebrewcalendar1.json",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx22_hebrew_calendar_wheel/full/full/0/default.jpg",
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx22_hebrew_calendar_wheel_hebrewcalendar1/full/full/0/default.jpg",
                 "@type": "dcterms:Image",
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx22_hebrew_calendar_wheel",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx22_hebrew_calendar_wheel_hebrewcalendar1",
                   "profile": "http://iiif.io/api/image/2/level0.json"
                 },
-                "width": 2949,
-                "height": 3602
+                "width": 2099,
+                "height": 2454
               },
-              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx22_hebrew_calendar_wheel.json"
+              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx22_hebrew_calendar_wheel_hebrewcalendar1.json"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx22_hebrew_calendar_wheel_hebrewcalendar2.json",
+          "label": "Page 2",
+          "width": 3024,
+          "height": 4032,
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx22_hebrew_calendar_wheel_hebrewcalendar2/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx22_hebrew_calendar_wheel_hebrewcalendar2.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx22_hebrew_calendar_wheel_hebrewcalendar2/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx22_hebrew_calendar_wheel_hebrewcalendar2",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 3024,
+                "height": 4032
+              },
+              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx22_hebrew_calendar_wheel_hebrewcalendar2.json"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx22_hebrew_calendar_wheel_hebrewcalendar3.json",
+          "label": "Page 3",
+          "width": 3808,
+          "height": 2545,
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx22_hebrew_calendar_wheel_hebrewcalendar3/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx22_hebrew_calendar_wheel_hebrewcalendar3.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx22_hebrew_calendar_wheel_hebrewcalendar3/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx22_hebrew_calendar_wheel_hebrewcalendar3",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 3808,
+                "height": 2545
+              },
+              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx22_hebrew_calendar_wheel_hebrewcalendar3.json"
             }
           ]
         }
       ]
     }
   ],
-  "full": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx22_hebrew_calendar_wheel/full/full/0/default.jpg",
-  "fullwidth": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx22_hebrew_calendar_wheel/full/1140,/0/default.jpg"
+  "full": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx22_hebrew_calendar_wheel_hebrewcalendar1/full/full/0/default.jpg",
+  "fullwidth": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx22_hebrew_calendar_wheel_hebrewcalendar1/full/1140,/0/default.jpg",
+  "osd": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx22_hebrew_calendar_wheel_hebrewcalendar1/full/501,/0/default.jpg",
+  "tiny": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx22_hebrew_calendar_wheel_hebrewcalendar1/full/90,/0/default.jpg"
 }

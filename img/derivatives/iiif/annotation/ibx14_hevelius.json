@@ -14,8 +14,8 @@ layout: none
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx14_hevelius",
       "profile": "http://iiif.io/api/image/2/level0.json"
     },
-    "width": 2692,
-    "height": 3589
+    "width": 2879,
+    "height": 3815
   },
   "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx14_hevelius.json",
   "@context": "http://iiif.io/api/presentation/2/context.json"

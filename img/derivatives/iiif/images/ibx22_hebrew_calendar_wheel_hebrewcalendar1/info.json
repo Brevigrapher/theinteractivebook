@@ -1,0 +1,53 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx22_hebrew_calendar_wheel_hebrewcalendar1",
+  "protocol": "http://iiif.io/api/image",
+  "width": 2099,
+  "height": 2454,
+  "sizes": [
+    {
+      "width": 2099,
+      "height": 2454
+    },
+    {
+      "width": 250,
+      "height": 292
+    },
+    {
+      "width": 1140,
+      "height": 1333
+    },
+    {
+      "width": 501,
+      "height": 586
+    },
+    {
+      "width": 90,
+      "height": 105
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}

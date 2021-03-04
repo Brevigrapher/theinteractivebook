@@ -1,0 +1,53 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx15_oracle_fan_oracle1",
+  "protocol": "http://iiif.io/api/image",
+  "width": 5169,
+  "height": 3553,
+  "sizes": [
+    {
+      "width": 5169,
+      "height": 3553
+    },
+    {
+      "width": 250,
+      "height": 172
+    },
+    {
+      "width": 1140,
+      "height": 784
+    },
+    {
+      "width": 501,
+      "height": 344
+    },
+    {
+      "width": 90,
+      "height": 62
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}

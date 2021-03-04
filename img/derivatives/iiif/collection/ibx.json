@@ -13,39 +13,14 @@ layout: none
       "label": "ibx24_horn_book"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ibx7_robins_postcard/manifest.json",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ibx3_camden/manifest.json",
       "@type": "sc:Manifest",
-      "label": "ibx7_robins_postcard"
+      "label": "ibx3_camden"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ibx25_ames_almanack/manifest.json",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ibx15_oracle_fan/manifest.json",
       "@type": "sc:Manifest",
-      "label": "ibx25_ames_almanack"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ibx4_stow/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "ibx4_stow"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ibx9_bible/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "ibx9_bible"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ibx6_wollstonecraft/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "ibx6_wollstonecraft"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ibx16_rose_merton/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "ibx16_rose_merton"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ibx14_hevelius/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "ibx14_hevelius"
+      "label": "ibx15_oracle_fan"
     },
     {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ibx21_archer/manifest.json",
@@ -53,49 +28,14 @@ layout: none
       "label": "ibx21_archer"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ibx18_denzer_trifold/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "ibx18_denzer_trifold"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ibx20_mattioli/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "ibx20_mattioli"
-    },
-    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ibx5_radcliffe/manifest.json",
       "@type": "sc:Manifest",
       "label": "ibx5_radcliffe"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ibx8_maiore/manifest.json",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ibx25_ames_almanack/manifest.json",
       "@type": "sc:Manifest",
-      "label": "ibx8_maiore"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ibx10_smith_martha/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "ibx10_smith_martha"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ibx12_jackson/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "ibx12_jackson"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ibx22_hebrew_calendar_wheel/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "ibx22_hebrew_calendar_wheel"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ibx2_beze/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "ibx2_beze"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ibx3_camden/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "ibx3_camden"
+      "label": "ibx25_ames_almanack"
     },
     {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ibx19_denzer_cheese/manifest.json",
@@ -103,14 +43,74 @@ layout: none
       "label": "ibx19_denzer_cheese"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ibx17_mother_hubbard/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "ibx17_mother_hubbard"
-    },
-    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ibx23_smith_eliza/manifest.json",
       "@type": "sc:Manifest",
       "label": "ibx23_smith_eliza"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ibx4_stow/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "ibx4_stow"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ibx14_hevelius/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "ibx14_hevelius"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ibx20_mattioli/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "ibx20_mattioli"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ibx9_bible/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "ibx9_bible"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ibx18_denzer_trifold/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "ibx18_denzer_trifold"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ibx7_robins_postcard/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "ibx7_robins_postcard"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ibx22_hebrew_calendar_wheel/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "ibx22_hebrew_calendar_wheel"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ibx13_mellis/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "ibx13_mellis"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ibx10_smith_martha/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "ibx10_smith_martha"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ibx2_beze/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "ibx2_beze"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ibx12_jackson/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "ibx12_jackson"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ibx16_rose_merton/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "ibx16_rose_merton"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ibx6_wollstonecraft/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "ibx6_wollstonecraft"
     },
     {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ibx11_blechynden/manifest.json",
@@ -123,14 +123,14 @@ layout: none
       "label": "ibx1_holinshed"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ibx13_unbearables/manifest.json",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ibx8_maiore/manifest.json",
       "@type": "sc:Manifest",
-      "label": "ibx13_unbearables"
+      "label": "ibx8_maiore"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ibx15_oracle_fan/manifest.json",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ibx17_mother_hubbard/manifest.json",
       "@type": "sc:Manifest",
-      "label": "ibx15_oracle_fan"
+      "label": "ibx17_mother_hubbard"
     }
   ]
 }

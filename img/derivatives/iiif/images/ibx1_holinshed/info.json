@@ -5,20 +5,28 @@ layout: none
   "@context": "http://iiif.io/api/image/2/context.json",
   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx1_holinshed",
   "protocol": "http://iiif.io/api/image",
-  "width": 2984,
-  "height": 3979,
+  "width": 2969,
+  "height": 3780,
   "sizes": [
     {
-      "width": 2984,
-      "height": 3979
+      "width": 2969,
+      "height": 3780
     },
     {
       "width": 250,
-      "height": 333
+      "height": 318
     },
     {
       "width": 1140,
-      "height": 1520
+      "height": 1451
+    },
+    {
+      "width": 501,
+      "height": 638
+    },
+    {
+      "width": 90,
+      "height": 115
     }
   ],
   "profile": [

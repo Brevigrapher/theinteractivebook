@@ -4,62 +4,64 @@ title: Sources
 permalink: /sources/
 banner:
   collection: ibx
-  pid: ibx23_smith_eliza
+  pid: ibx11_blechynden
   y: 60%
   height: 600px
 ---
 ### Selected Sources
-Arber, Agnes. *Herbals Their Origin and Evolution: A Chapter in the History of Botany 1470-1670*, 2nd Edition. Cambridge: Cambridge University Press, 1938, 1953 reprint.
 
-Borsuk, Amaranth. *The Book*. Cambridge, MA: MIT Press, 2018.
+Arber, Agnes. <i>Herbals Their Origin and Evolution: A Chapter in the History of Botany 1470-1670</i>, 2nd Edition. Cambridge: Cambridge University Press, 1938, 1953 reprint.
 
-Carlebach, Elisheva. *Palaces of Time: Jewish Calendar and Culture in Early Modern Europe*. Cambridge: Belknap Press of Harvard University Press, 2011.
+Borsuk, Amaranth. <i>The Book</i>. Cambridge, MA: MIT Press, 2018.
 
-Cormack, Bradin and Carla Mazzio. *Book Use, Book Theory, 1500-1700*. Chicago: University of Chicago Library, 2005.
+Carlebach, Elisheva. <i>Palaces of Time: Jewish Calendar and Culture in Early Modern Europe</i>. Cambridge: Belknap Press of Harvard University Press, 2011.
 
-Cramsie, Patrick. *The Story of Graphic Design: From the Invention of Writing to the Birth of Digital Design*. New York: Abrams, 2010.
+Cormack, Bradin and Carla Mazzio. <i>Book Use, Book Theory, 1500-1700</i>. Chicago: University of Chicago Library, 2005.
 
-Crane, Pat. *The Story of A*. Stanford: Stanford University Press, 2002.
+Cramsie, Patrick. <i>The Story of Graphic Design: From the Invention of Writing to the Birth of Digital Design</i>. New York: Abrams, 2010.
 
-Dean, Gabrielle. “‘Every Man His Own Publisher’: Extra-Illustration and the Dream of the Universal Library,” *Textual Cultures* 8:1 (Spring 2013): 57-71.
+Crain, Patricia. <i>The Story of A</i>. Stanford: Stanford University Press, 2002.
 
-DiMeo, Michelle and Sarah Pennell. *Reading and Writing Recipe Books, 1550-1800*. Manchester: Manchester University Press, 2013.
+Dean, Gabrielle. “‘Every Man His Own Publisher’: Extra-Illustration and the Dream of the Universal Library,” <i>Textual Cultures</i> 8:1 (Spring 2013): 57-71.
 
-Drucker, Johanna. *The Century of Artist’s Books*. New York: Granary Books, 2004.
+DiMeo, Michelle and Sarah Pennell. <i>Reading and Writing Recipe Books, 1550-1800</i>. Manchester: Manchester University Press, 2013.
 
-Duncan, Dennis and Adam Smyth. *Book Parts*. Oxford: Oxford University Press, 2019.
+Drucker, Johanna. <i>The Century of Artist’s Books</i>. New York: Granary Books, 2004.
 
-Field, Hannah. *Playing With the Book*. Minneapolis: University of Minnesota Press, 2019.
+Duncan, Dennis and Adam Smyth. <i>Book Parts</i>. Oxford: Oxford University Press, 2019.
 
-Flusser, Vilém. *Gestures*. Translated by Nancy Ann Roth. Minneapolis: University of Minnesota Press, 2014.
+Field, Hannah. <i>Playing With the Book</i>. Minneapolis: University of Minnesota Press, 2019.
 
-Gascoigne, Bamber. *How to Identify Prints: A Complete Guide to Manual and Mechanical Processes*. New York: Thames & Hudson, 2004.
+Flusser, Vilém. <i>Gestures</i>. Translated by Nancy Ann Roth. Minneapolis: University of Minnesota Press, 2014.
 
-Genette, Gerard. *Paratexts: Thresholds of Interpretation*. Translated by Jane E. Lewin. Cambridge: Cambridge University Press, 1997.
+Gascoigne, Bamber. <i>How to Identify Prints: A Complete Guide to Manual and Mechanical Processes</i>. New York: Thames & Hudson, 2004.
 
-Griffiths, Antony. *The Print Before Photography: An Introduction to European Printmaking, 1550-1820*. London: The British Museum Press, 2016.
+Genette, Gerard. <i>Paratexts: Thresholds of Interpretation</i>. Translated by Jane E. Lewin. Cambridge: Cambridge University Press, 1997.
 
-Havens, Earl. *Commonplace Books: A History of Manuscripts and Printed Books from Antiquity to the Twentieth Century*. New Haven: Beinecke Rare Books and Manuscript Library, 2001.
+Griffiths, Antony. <i>The Print Before Photography: An Introduction to European Printmaking, 1550-1820</i>. London: The British Museum Press, 2016.
 
-Levy, F.J. “The Making of Camden’s *Britannia*,” *Bibliothèque d’Humanisme et Renaissance*, 26:1 (1964): 70-97.
+Havens, Earl. <i>Commonplace Books: A History of Manuscripts and Printed Books from Antiquity to the Twentieth Century</i>. New Haven: Beinecke Rare Books and Manuscript Library, 2001.
 
-Multigraph Collective. *Interacting with Print*. Chicago: University of Chicago Press, 2018.
+Levy, F.J. “The Making of Camden’s Britannia,” <i>Bibliothèque d’Humanisme et Renaissance</i>, 26:1 (1964): 70-97.
 
-Nicosia, Marissa. “Cooking Hannah Woolley’s Printed Recipes from a Manuscript Recipe Book: UPenn Ms. Codex 785.” In *After Print: Eighteenth-Century Manuscript Cultures*, edited by Rachael S. King, 285-309. Charlottesville: University of Virginia Press, 2020.
+Multigraph Collective. <i>Interacting with Print</i>. Chicago: University of Chicago Press, 2018.
+Nicosia, Marissa. “Cooking Hannah Woolley’s Printed Recipes from a Manuscript Recipe Book: UPenn Ms. Codex 785.” In <i>After Print: Eighteenth-Century Manuscript Cultures</i>, edited by Rachael S. King, 285-309. Charlottesville: University of Virginia Press, 2020.
 
-Peltz, Lucy. *Facing the Text*. San Marino: Huntington Library, 2017.
+Peltz, Lucy. <i>Facing the Text</i>. San Marino: Huntington Library, 2017.
 
-Raven, James. *What is the History of the Book?* Cambridge, UK: Polity Press, 2018.
+Raven, James. <i>What is the History of the Book?</i> Cambridge, UK: Polity Press, 2018.
 
-Reid-Walsh, Jacqueline. *Interactive Books; Playful Media Before Pop-Ups*. Taylor & Francis Group, 2017
+Reid-Walsh, Jacqueline. <i>Interactive Books; Playful Media Before Pop-Ups</i>. Taylor & Francis Group, 2017
+Schmidt, Suzanne Karr. <i>Interactive and Sculptural Printmaking in the Renaissance</i>. Leiden: Brill, 2017.
+Sherman, William. <i>Used Books</i>. Philadelphia: University of Pennsylvania Press, 2007.
 
-Schmidt, Suzanne Karr. *Interactive and Sculptural Printmaking in the Renaissance*. Leiden: Brill, 2017.
-Sherman, William. Used Books. Philadelphia: University of Pennsylvania Press, 2007.
+Smyth, Adam. “Almanacs, Annotaters, and Life-Writing in Early Modern England,” <i>English Literary Renaissance</i> 38:2 (May 2008): 200-244.
 
-Smyth, Adam. “Almanacs, Annotaters, and Life-Writing in Early Modern England,” *English Literary Renaissance* 38:2 (May 2008): 200-244.
+__________. <i>Autobiography in Early Modern England</i>. Cambridge: Cambridge University Press, 2010.
 
-__________. *Autobiography in Early Modern England*. Cambridge: Cambridge University Press, 2010.
+Sweet, Rosemary. <i>Antiquaries</i>. London: Hambledon and London, 2004.
 
-Sweet, Rosemary. *Antiquaries*. London: Hambledon and London, 2004.
+Vincler, John. “The Monstrous Body and the Manufactured Body in the Late Age of Print: Material Strategies for Innovative Fiction in Shelley Jackson’s <i>Patchwork Girl</i> and Steve Tomasula’s VAS: An Opera in Flatland”
+<http://www.dichtung-digital.org/2010/vincler/vincler.htm>
 
-Vincler, John. “The Monstrous Body and the Manufactured Body in the Late Age of Print: Material Strategies for Innovative Fiction in Shelley Jackson’s *Patchwork Girl* and Steve Tomasula’s *VAS: An Opera in Flatland*” <http://www.dichtung-digital.org/2010/vincler/vincler.htm>
+Wilker, Annie. “History Unfolded: Conservation Treatment and Housing of 18th-Century Printed Paper Fans,” Cultural Heritage. Access date: March 2, 2021. <https://www.culturalheritage.org/docs/default-source/annualmeeting/2014am_poster44_history_unfolded.pdf?sfvrsn=2>.

@@ -21,8 +21,8 @@
 title:            'The Interactive Book'
 description:      ''
 url:              ''
-baseurl:          '/ibx'
-copyright:        'New York University Special Collections 2021'
+baseurl:          '/theinteractivebook'
+copyright:        ''
 logo:             '/assets/logo.png'
 
 # ---------------------------------------------------------------
@@ -42,6 +42,7 @@ exclude:
   - vendor
   - spec
   - README.md
+  - scripts
 webrick:
   headers:
     'Access-Control-Allow-Origin': '*'
@@ -65,7 +66,7 @@ kramdown:
 # ~> https://jekyllrb.com/docs/collections/
 
 collections:
-  exhibits:
+  browse:
     output: true
   ibx: # name of collection
     output: true # makes sure pages are output as html files
@@ -73,7 +74,10 @@ collections:
     metadata:
       source: 'ibx.csv' # path to the metadata file within `_data`
     images:
-      source: 'raw_files/ibx' # path to the directory of images within `_data`
+      source: 'raw_files' # path to the directory of images within `_data`
+      variants:
+        osd: 501
+        tiny: 90
 
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS
@@ -104,18 +108,20 @@ search:
 # submenu via `sub`.
 
 menu:
+  - label: 'Browse'
+    sub:
+      - label: 'All'
+        link: '/browse/'
+      - label: 'Fill'
+        link: '/browse/fill/'
+      - label: 'Gather'
+        link: '/browse/gather/'
+      - label: 'Turn'
+        link: '/browse/turn/'
+      - label: 'Use'
+        link: '/browse/use/'
   - label: 'About'
     link: '/about/'
-  - label: 'Exhibits'
-    sub:
-      - label: 'Fill'
-        link: '/exhibits/fill/'
-      - label: 'Gather'
-        link: '/exhibits/gather/'
-      - label: 'Turn'
-        link: '/exhibits/turn/'
-      - label: 'Use'
-        link: '/exhibits/use/'
   - label: 'Sources'
     link: '/sources/'
   - label: 'Handlist'

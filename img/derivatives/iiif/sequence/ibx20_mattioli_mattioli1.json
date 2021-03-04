@@ -1,0 +1,66 @@
+---
+layout: none
+---
+{
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/sequence/ibx20_mattioli_mattioli1.json",
+  "@type": "sc:Sequence",
+  "canvases": [
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx20_mattioli_mattioli1.json",
+      "label": "Page 1",
+      "width": 2860,
+      "height": 3399,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx20_mattioli_mattioli1/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx20_mattioli_mattioli1.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx20_mattioli_mattioli1/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx20_mattioli_mattioli1",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 2860,
+            "height": 3399
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx20_mattioli_mattioli1.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx20_mattioli_mattioli2.json",
+      "label": "Page 2",
+      "width": 2653,
+      "height": 3202,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx20_mattioli_mattioli2/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx20_mattioli_mattioli2.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx20_mattioli_mattioli2/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx20_mattioli_mattioli2",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 2653,
+            "height": 3202
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx20_mattioli_mattioli2.json"
+        }
+      ]
+    }
+  ],
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}

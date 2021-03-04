@@ -1,0 +1,53 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx17_mother_hubbard_motherhubbard2",
+  "protocol": "http://iiif.io/api/image",
+  "width": 3387,
+  "height": 2887,
+  "sizes": [
+    {
+      "width": 3387,
+      "height": 2887
+    },
+    {
+      "width": 250,
+      "height": 213
+    },
+    {
+      "width": 1140,
+      "height": 972
+    },
+    {
+      "width": 501,
+      "height": 427
+    },
+    {
+      "width": 90,
+      "height": 77
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}

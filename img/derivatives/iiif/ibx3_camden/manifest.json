@@ -18,8 +18,8 @@ layout: none
           "@type": "sc:Canvas",
           "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx3_camden.json",
           "label": "front",
-          "width": 1433,
-          "height": 1381,
+          "width": 3860,
+          "height": 2895,
           "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx3_camden/full/250,/0/default.jpg",
           "images": [
             {
@@ -35,8 +35,8 @@ layout: none
                   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx3_camden",
                   "profile": "http://iiif.io/api/image/2/level0.json"
                 },
-                "width": 1433,
-                "height": 1381
+                "width": 3860,
+                "height": 2895
               },
               "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx3_camden.json"
             }
@@ -46,5 +46,7 @@ layout: none
     }
   ],
   "full": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx3_camden/full/full/0/default.jpg",
-  "fullwidth": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx3_camden/full/1140,/0/default.jpg"
+  "fullwidth": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx3_camden/full/1140,/0/default.jpg",
+  "osd": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx3_camden/full/501,/0/default.jpg",
+  "tiny": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx3_camden/full/90,/0/default.jpg"
 }

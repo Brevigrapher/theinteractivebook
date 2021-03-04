@@ -1,0 +1,53 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx2_beze_beze3",
+  "protocol": "http://iiif.io/api/image",
+  "width": 3652,
+  "height": 2915,
+  "sizes": [
+    {
+      "width": 3652,
+      "height": 2915
+    },
+    {
+      "width": 250,
+      "height": 200
+    },
+    {
+      "width": 1140,
+      "height": 910
+    },
+    {
+      "width": 501,
+      "height": 400
+    },
+    {
+      "width": 90,
+      "height": 72
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}

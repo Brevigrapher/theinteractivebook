@@ -1,0 +1,53 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx8_maiore_maiore1",
+  "protocol": "http://iiif.io/api/image",
+  "width": 1759,
+  "height": 2197,
+  "sizes": [
+    {
+      "width": 1759,
+      "height": 2197
+    },
+    {
+      "width": 250,
+      "height": 312
+    },
+    {
+      "width": 1140,
+      "height": 1424
+    },
+    {
+      "width": 501,
+      "height": 626
+    },
+    {
+      "width": 90,
+      "height": 112
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}

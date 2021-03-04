@@ -5,20 +5,28 @@ layout: none
   "@context": "http://iiif.io/api/image/2/context.json",
   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx16_rose_merton",
   "protocol": "http://iiif.io/api/image",
-  "width": 2783,
-  "height": 3659,
+  "width": 1876,
+  "height": 2534,
   "sizes": [
     {
-      "width": 2783,
-      "height": 3659
+      "width": 1876,
+      "height": 2534
     },
     {
       "width": 250,
-      "height": 329
+      "height": 338
     },
     {
       "width": 1140,
-      "height": 1499
+      "height": 1540
+    },
+    {
+      "width": 501,
+      "height": 677
+    },
+    {
+      "width": 90,
+      "height": 122
     }
   ],
   "profile": [

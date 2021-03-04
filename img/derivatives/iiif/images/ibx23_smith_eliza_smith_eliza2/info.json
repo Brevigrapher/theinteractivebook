@@ -1,0 +1,53 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx23_smith_eliza_smith_eliza2",
+  "protocol": "http://iiif.io/api/image",
+  "width": 2769,
+  "height": 3953,
+  "sizes": [
+    {
+      "width": 2769,
+      "height": 3953
+    },
+    {
+      "width": 250,
+      "height": 357
+    },
+    {
+      "width": 1140,
+      "height": 1627
+    },
+    {
+      "width": 501,
+      "height": 715
+    },
+    {
+      "width": 90,
+      "height": 128
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}

@@ -6,45 +6,75 @@ layout: none
   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ibx8_maiore/manifest.json",
   "@type": "sc:Manifest",
   "label": "ibx8_maiore",
-  "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx8_maiore/full/250,/0/default.jpg",
+  "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx8_maiore_maiore1/full/250,/0/default.jpg",
   "viewingDirection": "left-to-right",
   "viewingHint": "individuals",
   "sequences": [
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/sequence/ibx8_maiore.json",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/sequence/ibx8_maiore_maiore1.json",
       "@type": "sc:Sequence",
       "canvases": [
         {
           "@type": "sc:Canvas",
-          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx8_maiore.json",
-          "label": "front",
-          "width": 2642,
-          "height": 3346,
-          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx8_maiore/full/250,/0/default.jpg",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx8_maiore_maiore1.json",
+          "label": "Page 1",
+          "width": 1759,
+          "height": 2197,
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx8_maiore_maiore1/full/250,/0/default.jpg",
           "images": [
             {
               "@type": "oa:Annotation",
-              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx8_maiore.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx8_maiore_maiore1.json",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx8_maiore/full/full/0/default.jpg",
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx8_maiore_maiore1/full/full/0/default.jpg",
                 "@type": "dcterms:Image",
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx8_maiore",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx8_maiore_maiore1",
                   "profile": "http://iiif.io/api/image/2/level0.json"
                 },
-                "width": 2642,
-                "height": 3346
+                "width": 1759,
+                "height": 2197
               },
-              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx8_maiore.json"
+              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx8_maiore_maiore1.json"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx8_maiore_maiore2.json",
+          "label": "Page 2",
+          "width": 2445,
+          "height": 2976,
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx8_maiore_maiore2/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx8_maiore_maiore2.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx8_maiore_maiore2/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx8_maiore_maiore2",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 2445,
+                "height": 2976
+              },
+              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx8_maiore_maiore2.json"
             }
           ]
         }
       ]
     }
   ],
-  "full": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx8_maiore/full/full/0/default.jpg",
-  "fullwidth": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx8_maiore/full/1140,/0/default.jpg"
+  "full": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx8_maiore_maiore1/full/full/0/default.jpg",
+  "fullwidth": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx8_maiore_maiore1/full/1140,/0/default.jpg",
+  "osd": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx8_maiore_maiore1/full/501,/0/default.jpg",
+  "tiny": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx8_maiore_maiore1/full/90,/0/default.jpg"
 }

@@ -1,0 +1,53 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx5_radcliffe_radcliffe1",
+  "protocol": "http://iiif.io/api/image",
+  "width": 2386,
+  "height": 3717,
+  "sizes": [
+    {
+      "width": 2386,
+      "height": 3717
+    },
+    {
+      "width": 250,
+      "height": 389
+    },
+    {
+      "width": 1140,
+      "height": 1776
+    },
+    {
+      "width": 501,
+      "height": 780
+    },
+    {
+      "width": 90,
+      "height": 140
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}
