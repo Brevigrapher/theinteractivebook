@@ -1,0 +1,24 @@
+<div id="osd" class="image-viewer"></div>
+<script async defer src="{{ '/assets/openseadragon/openseadragon.min.js' | absolute_url }}"></script>
+
+<script>
+  $(document).ready(function () {
+    var manifestUrl = "{{ include.manifest | absolute_url }}";
+    $.getJSON(manifestUrl, function(data) {
+      var tileSources = [];
+      $.each(data.sequences[0].canvases, function(k, val) {
+        var source = val.images[0].resource.service['@id'] + '/info.json'
+        source['thumb_url'] =  'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/PM5544_with_non-PAL_signals.png/200px-PM5544_with_non-PAL_signals.png'
+        tileSources.push(source);
+      });
+      OpenSeadragon({
+        id: "osd",
+        preload: true,
+        sequenceMode: true,
+        prefixUrl: "{{ '/assets/openseadragon/images/' | absolute_url }}",
+        tileSources: tileSources,
+        showReferenceStrip: true,
+      });
+    });
+  });
+</script>
