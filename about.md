@@ -26,7 +26,7 @@ The materials in this exhibition are held by the <a href="https://library.nyu.ed
 A full program of events to accompany this exhibition has been scheduled for March-April 2021.
 
 March 5, 2021
-<a href="https://www.eventbrite.com/e/interactive-book-symposium-tickets-140949500751" target="_none">The Interactive Book Symposium</a>, Gabrielle Dean, Marissa Nicosia, Suzanne Karr Schmidt and Jacqueline Reid-Walsh
+<a href="https://www.eventbrite.com/e/interactive-book-symposium-tickets-140949500751" target="_none">The Interactive Book Symposium</a>, Gabrielle Dean, Suzanne Karr Schmidt, Marissa Nicosia, and Jacqueline Reid-Walsh
 
 March 17, 2021
 <a href="https://www.eventbrite.com/e/opening-the-interactive-book-tickets-141179003199" target="_none">Public Lecture: Opening the Interactive Book</a>, Julie Park
