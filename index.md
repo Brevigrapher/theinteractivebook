@@ -3,8 +3,8 @@ layout: page
 show_title: false
 banner:
   collection: ibx
-  pid: ibx4_stow
-  
+  pid: ibx2_beze
+  y: 45%
   height: 600px
 ---
 ## Introduction
