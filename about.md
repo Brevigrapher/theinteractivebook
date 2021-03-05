@@ -42,4 +42,4 @@ April 14
 <br>
 *Special thanks to Charlotte Priddle, Nicholas Martin, Felix Esquival, Marii Nyrop, Janet Bunde, Elizabeth Verrelli, Nicole D’Andrea, Andrew Rarig, Kent Underwood, Gabrielle Dean, Suzanne Karr Schmidt and Curtis Small for their much-appreciated roles in supporting this exhibition.*
 
-*Gratitude goes also to David Selis and Michelle Margolis for providing help in interpreting the Sefer* ‘Evronot *in the exhibition.*
+*Gratitude goes also to David Selis and Michelle Margolis for providing help in interpreting the *Sefer ‘Evronot *in the exhibition.*
