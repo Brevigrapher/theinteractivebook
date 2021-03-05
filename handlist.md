@@ -9,8 +9,6 @@ banner:
   height: 600px
 ---
 
-Adomeit, Ruth E. Dean’s New Dress Book: Rose Merton, the Little Orphan. London: Dean & Son, 1862. Fales Brit <https://bobcat.library.nyu.edu/permalink/f/ci13eu/nyu_aleph007377031>
-
 Ames, Nathaniel. <i>An Astronomical Diary, or Almanack for the Year of our Lord Christ</i>. Boston: printed and sold by the printers and booksellers i.e., Richard Draper, Edes & Gill, and T. & J. Fleet, 1769. Fales Amer Box <https://bobcat.library.nyu.edu/permalink/f/1c17uag/nyu_aleph002364398>
 
 Archer, John. <i>A Compendious herbal</i>. London: Printed by E.C. for the author, 1673. SpecCol QK41.A73 1673
@@ -23,6 +21,8 @@ Blechynden, Jane Harriet. [Commonplace Book]/manuscript. Great Britain, 1822. Fa
 
 Camden, William. <i>Britannia: sive Florentissimorvm regnorvm Angliae, Scotiae, Hiberniae, et insularum adiacentium ex intima antiquitate chorographica descriptio</i>. Londini: impensis G. Bishop & I. Norton, 1607. SpecCol DA610.C16 1607 Oversize
 <https://bobcat.library.nyu.edu/permalink/f/ci13eu/nyu_aleph001132035>
+
+Dean’s New Dress Book: Rose Merton, the Little Orphan. London: Dean & Son, 1862. Fales Brit <https://bobcat.library.nyu.edu/permalink/f/ci13eu/nyu_aleph007377031>
 
 Denzer, Ben. <i>Ninety One at Sixty Ninth: Twenty Three Poems</i>. New York: Catalog Press, 2020. Not yet cataloged.
 
