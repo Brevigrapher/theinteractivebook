@@ -4,7 +4,7 @@ show_title: false
 banner:
   collection: ibx
   pid: ibx16_rose_merton
-  y: 35%
+  y: 40%
   height: 600px
 ---
 ## Introduction
