@@ -4,7 +4,7 @@ show_title: false
 banner:
   collection: ibx
   pid: ibx2_beze
-  y: 40%
+  y: 45%
   height: 600px
 ---
 ## Introduction
