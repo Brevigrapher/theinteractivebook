@@ -3,7 +3,7 @@ layout: page
 show_title: false
 banner:
   collection: ibx
-  pid: ibx16_rose_merton
+  pid: ibx2_beze
   y: 40%
   height: 600px
 ---
