@@ -42,6 +42,8 @@ Griffiths, Antony. <i>The Print Before Photography: An Introduction to European 
 
 Havens, Earl. <i>Commonplace Books: A History of Manuscripts and Printed Books from Antiquity to the Twentieth Century</i>. New Haven: Beinecke Rare Books and Manuscript Library, 2001.
 
+Karr Schmidt, Suzanne. <i>Interactive and Sculptural Printmaking in the Renaissance</i>. Leiden: Brill, 2017.
+
 Levy, F.J. “The Making of Camden’s Britannia,” <i>Bibliothèque d’Humanisme et Renaissance</i>, 26:1 (1964): 70-97.
 
 Multigraph Collective. <i>Interacting with Print</i>. Chicago: University of Chicago Press, 2018.
@@ -52,7 +54,7 @@ Peltz, Lucy. <i>Facing the Text</i>. San Marino: Huntington Library, 2017.
 Raven, James. <i>What is the History of the Book?</i> Cambridge, UK: Polity Press, 2018.
 
 Reid-Walsh, Jacqueline. <i>Interactive Books; Playful Media Before Pop-Ups</i>. Taylor & Francis Group, 2017
-Schmidt, Suzanne Karr. <i>Interactive and Sculptural Printmaking in the Renaissance</i>. Leiden: Brill, 2017.
+
 Sherman, William. <i>Used Books</i>. Philadelphia: University of Pennsylvania Press, 2007.
 
 Smyth, Adam. “Almanacs, Annotaters, and Life-Writing in Early Modern England,” <i>English Literary Renaissance</i> 38:2 (May 2008): 200-244.
