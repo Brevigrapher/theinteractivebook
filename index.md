@@ -3,7 +3,7 @@ layout: page
 show_title: false
 banner:
   collection: ibx
-  pid: ibx2_beze
+  pid: ibx2_beze_Beze2
   y: 35%
   height: 600px
 ---
