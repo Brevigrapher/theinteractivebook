@@ -63,7 +63,7 @@ Radcliffe, Ann. <i>A Sicilian Romance. A Sicilian Romance</i>. 2 vols. London: T
 Robins, Elizabeth. Elizabeth Robins Papers, 1803-1963. Box 104, Folder 40, SpecCol MSS.002
 <https://bobcat.library.nyu.edu/permalink/f/ci13eu/nyu_aleph006049994>
 
-Smith, Eliza. <i>The Compleat Housewife</i>, 14th Edition. London: R. Ware, 1750. SpecCol TX705 .S65 1750 <https://library.nyu.edu/persistent/lcn/nyu_aleph001006758?institution=NYU&persistent>
+Smith, Eliza. <i>The Compleat Housewife</i>, 14th Edition. London: R. Ware, 1750. SpecCol TX705 .S65 <https://library.nyu.edu/persistent/lcn/nyu_aleph001006758?institution=NYU&persistent>
 
 Smith, Martha. [Martha Smith Her Book]. ca. 1655-1697. SpecCol (TX705 .S655 1655 V)
 <https://bobcat.library.nyu.edu/permalink/f/ci13eu/nyu_aleph003620145>
