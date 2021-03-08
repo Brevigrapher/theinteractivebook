@@ -4,7 +4,7 @@ show_title: false
 banner:
   collection: ibx
   pid: ibx4_stow
-  y: 240%
+  y: 245%
   height: 600px
 ---
 ## Introduction
