@@ -4,8 +4,8 @@ title: Browse the Exhibition
 permalink: /browse/
 banner:
   collection: ibx
-  pid: ibx3_camden
-  y: 125%
+  pid: ibx20_mattioli
+  y: 90%
   height: 600px
 ---
 ### Fill
