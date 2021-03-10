@@ -110,7 +110,7 @@ search:
 menu:
   - label: 'Browse'
     sub:
-      - label: 'All'
+      - label: '<b>All</b>'
         link: '/browse/'
       - label: 'Fill'
         link: '/browse/fill/'
