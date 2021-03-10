@@ -5,7 +5,7 @@ permalink: /browse/
 banner:
   collection: ibx
   pid: ibx3_camden
-  y: 70%
+  y: 90%
   height: 600px
 ---
 ### Fill
