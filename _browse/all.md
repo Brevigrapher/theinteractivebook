@@ -5,7 +5,7 @@ permalink: /browse/
 banner:
   collection: ibx
   pid: ibx20_mattioli
-  y: 90%
+  y: 75%
   height: 600px
 ---
 ### Fill
