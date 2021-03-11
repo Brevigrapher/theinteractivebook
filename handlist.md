@@ -14,7 +14,7 @@ Ames, Nathaniel. <i>An Astronomical Diary, or Almanack for the Year of our Lord 
 Archer, John. <i>A Compendious herbal</i>. London: Printed by E.C. for the author, 1673. SpecCol QK41.A73 1673
 <http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph003996065&context=L&vid=NYU&search_scope=all&tab=all&lang=en_US>
 
-Beze, Theodore de. <i>Icones</i>. Geneuae,  Apud Ioannem Laonium., 1580. SpecCol CT93 .B4 <https://library.nyu.edu/persistent/lcn/nyu_aleph000922502?institution=NYU&persistent>
+Beze, Theodore de. <i>Icones</i>. Geneuae,  Apud Ioannem Laonium, 1580. SpecCol CT93 .B4 <https://library.nyu.edu/persistent/lcn/nyu_aleph000922502?institution=NYU&persistent>
 
 Blechynden, Jane Harriet. [Commonplace Book]/manuscript. Great Britain, 1822. Fales Brit
 <https://bobcat.library.nyu.edu/permalink/f/ci13eu/nyu_aleph007378736>
