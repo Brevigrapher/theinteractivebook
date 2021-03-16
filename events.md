@@ -26,7 +26,7 @@ Speakers Abstracts and Bios
 <br>Suzanne Karr Schmidt
 George Amos Poole III Curator of Rare Books and Manuscripts
 Newberry Library
- 
+<br> 
 "Dialing It In: Interactive Renaissance Shortcuts"
  
 Premodern books with moving parts, (especially flaps and dials), aimed to impress with printed ingenuity, but also to simplify.  Many offered solutions: whether for scheduling quandaries; for offering tactile learning; or even for planning one's future. This talk touches on several intentionally hands-on publications whose authors delivered the very latest improvements for the sake of their reader's edification and amusement.
@@ -40,7 +40,7 @@ Suzanne Karr Schmidt, is the George Amos Poole III Curator of Rare Books and Man
 Assistant Professor of English
 Penn State University, Abington College
 
-
+<br>
 "Interacting with Early Modern Recipe Books"
  
 What would happen if we approached recipe books as usable cookbooks? This paper takes up this question by considering cooking as a method for manuscript study and presenting examples from my ongoing Cooking in the Archives project. Since I started the project in 2014, I have become increasingly interested in cooking as an interpretative practice. In this paper, I will reflect on cooking as a method for understanding historical recipes now as well as in their original contexts. To do this, I will bring together frameworks from disparate fields: ethno-bibliography, embodied 
@@ -58,7 +58,7 @@ Marissa Nicosia, is Assistant Professor of Renaissance Literature at the Pennsyl
 Associate Professor of Education (Language & Literacy Education) and Women’s Studies
 Penn State University, State College
 
- 
+<br> 
 "Before Pop-Ups: children’s interactive books in the 18th and 19th centuries"
  
 Many people today associate the modern pop-up book with children, and often use the term to refer to all types of movable books for this market. Yet they often don't realize that for hundreds of years books with movable components have been directed towards Anglo-American children for education and pleasure. In this talk I examine several notable kinds; 18th century turn-up books, also called metamorphic pictures or harlequinades; early 19th century paper doll books with movable heads; and complex, late 19th century “mechanical books.” I examine the affordances of each type: flaps and accordion folds, tabs and slots, and combinations of two- and three-dimensional devices. In each case the actions of the book are controlled by the child reader-viewer-player or interactor.
@@ -71,7 +71,7 @@ Jacqueline Reid-Walsh is an Associate Professor at the Pennsylvania State Univer
 <br>Gabrielle Dean
 William Kurrelmeyer Curator of Rare Books and Manuscripts
 The Sheridan Libraries, Johns Hopkins University
-
+<br>
 
 "Selfing in the Postcard Album"
  
