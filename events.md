@@ -18,7 +18,7 @@ April 14
 <a href="https://www.eventbrite.com/e/how-to-make-your-own-interactive-paper-flag-book-tickets-141194000055" target="_none">Workshop: How to Make Your Own Interactive Paper Flag Book</a> (limited to 25 participants), Roni Gross
 
 
-<b>The Interactive Book Symposium</b>, March 5, 2021
+<br><b>The Interactive Book Symposium</b>, March 5, 2021</br>
 
 Speakers Abstracts and Bios
 
