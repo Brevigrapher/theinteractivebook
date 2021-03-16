@@ -27,6 +27,7 @@ Speakers Abstracts and Bios
 <br>George Amos Poole III Curator of Rare Books and Manuscripts
 <br>Newberry Library
 <br> 
+
 "Dialing It In: Interactive Renaissance Shortcuts"
  
 Premodern books with moving parts, (especially flaps and dials), aimed to impress with printed ingenuity, but also to simplify.  Many offered solutions: whether for scheduling quandaries; for offering tactile learning; or even for planning one's future. This talk touches on several intentionally hands-on publications whose authors delivered the very latest improvements for the sake of their reader's edification and amusement.
@@ -40,6 +41,7 @@ Suzanne Karr Schmidt, is the George Amos Poole III Curator of Rare Books and Man
 <br>Assistant Professor of English
 <br>Penn State University, Abington College
 <br>
+
 "Interacting with Early Modern Recipe Books"
  
 What would happen if we approached recipe books as usable cookbooks? This paper takes up this question by considering cooking as a method for manuscript study and presenting examples from my ongoing Cooking in the Archives project. Since I started the project in 2014, I have become increasingly interested in cooking as an interpretative practice. In this paper, I will reflect on cooking as a method for understanding historical recipes now as well as in their original contexts. To do this, I will bring together frameworks from disparate fields: ethno-bibliography, embodied 
