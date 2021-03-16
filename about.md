@@ -22,23 +22,6 @@ Marii Nyrop works on digital humanities projects at NYU.
 
 The materials in this exhibition are held by the <a href="https://library.nyu.edu/locations/special-collections-center/">Special Collections Center</a> of <a href="https://library.nyu.edu">New York University Libraries</a>. The reading room is now closed to non-NYU affiliated visitors. When it reopens to all users, non-NYU affiliated individuals may request an appointment to view them.
 
-### Related Events
-A full program of events to accompany this exhibition has been scheduled for March-April 2021.
-
-March 5, 2021
-<a href="https://www.eventbrite.com/e/interactive-book-symposium-tickets-140949500751" target="_none">The Interactive Book Symposium</a>, Gabrielle Dean, Suzanne Karr Schmidt, Marissa Nicosia, and Jacqueline Reid-Walsh
-
-March 17, 2021
-<a href="https://www.eventbrite.com/e/opening-the-interactive-book-tickets-141179003199" target="_none">Public Lecture: Opening the Interactive Book</a>, Julie Park
-
-April 8, 2021
-<a href="https://www.eventbrite.com/e/how-the-sausage-gets-eaten-artists-books-as-an-interactive-medium-tickets-141190902791" target="_none">Public Lecture: How the Sausage Gets Eaten</a>, Ben Denzer
-
-April 14
-<a href="https://www.eventbrite.com/e/how-to-make-your-own-interactive-paper-flag-book-tickets-141194000055" target="_none">Workshop: How to Make Your Own Interactive Paper Flag Book</a> (limited to 25 participants), Roni Gross
-
-
-
 <br>
 *Special thanks to Charlotte Priddle, Nicholas Martin, Felix Esquival, Marii Nyrop, Janet Bunde, Elizabeth Verrelli, Nicole D’Andrea, Andrew Rarig, Kent Underwood, Gabrielle Dean, Suzanne Karr Schmidt and Curtis Small for their much-appreciated roles in supporting this exhibition.*
 

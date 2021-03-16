@@ -122,6 +122,8 @@ menu:
         link: '/browse/use/'
   - label: 'About'
     link: '/about/'
+  - label: 'Events'
+    link: '/events/'
   - label: 'Sources'
     link: '/sources/'
   - label: 'Handlist'
