@@ -24,7 +24,7 @@ Speakers Abstracts and Bios
 
 
 <br>Suzanne Karr Schmidt
-George Amos Poole III Curator of Rare Books and Manuscripts
+<br>George Amos Poole III Curator of Rare Books and Manuscripts
 Newberry Library
 <br> 
 "Dialing It In: Interactive Renaissance Shortcuts"
@@ -37,9 +37,8 @@ Suzanne Karr Schmidt, is the George Amos Poole III Curator of Rare Books and Man
 
 <br>
 <br>Marissa Nicosia
-Assistant Professor of English
+<br>Assistant Professor of English
 Penn State University, Abington College
-
 <br>
 "Interacting with Early Modern Recipe Books"
  
@@ -55,10 +54,9 @@ Marissa Nicosia, is Assistant Professor of Renaissance Literature at the Pennsyl
 
 <br>
 <br>Jacqueline Reid-Walsh
-Associate Professor of Education (Language & Literacy Education) and Women’s Studies
+<br>Associate Professor of Education (Language & Literacy Education) and Women’s Studies
 Penn State University, State College
 
-<br> 
 "Before Pop-Ups: children’s interactive books in the 18th and 19th centuries"
  
 Many people today associate the modern pop-up book with children, and often use the term to refer to all types of movable books for this market. Yet they often don't realize that for hundreds of years books with movable components have been directed towards Anglo-American children for education and pleasure. In this talk I examine several notable kinds; 18th century turn-up books, also called metamorphic pictures or harlequinades; early 19th century paper doll books with movable heads; and complex, late 19th century “mechanical books.” I examine the affordances of each type: flaps and accordion folds, tabs and slots, and combinations of two- and three-dimensional devices. In each case the actions of the book are controlled by the child reader-viewer-player or interactor.
@@ -69,9 +67,8 @@ Jacqueline Reid-Walsh is an Associate Professor at the Pennsylvania State Univer
 
 <br>
 <br>Gabrielle Dean
-William Kurrelmeyer Curator of Rare Books and Manuscripts
+<br>William Kurrelmeyer Curator of Rare Books and Manuscripts
 The Sheridan Libraries, Johns Hopkins University
-<br>
 
 "Selfing in the Postcard Album"
  
