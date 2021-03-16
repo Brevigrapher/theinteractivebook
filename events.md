@@ -21,7 +21,8 @@ April 14
 <br><b>The Interactive Book Symposium</b>, March 5, 2021
 
 Speakers Abstracts and Bios
-
+<br>
+<br>
 
 <br>Suzanne Karr Schmidt
 <br>George Amos Poole III Curator of Rare Books and Manuscripts
