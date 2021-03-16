@@ -25,7 +25,7 @@ Speakers Abstracts and Bios
 
 <br>Suzanne Karr Schmidt
 <br>George Amos Poole III Curator of Rare Books and Manuscripts
-Newberry Library
+<br>Newberry Library
 <br> 
 "Dialing It In: Interactive Renaissance Shortcuts"
  
@@ -38,7 +38,7 @@ Suzanne Karr Schmidt, is the George Amos Poole III Curator of Rare Books and Man
 <br>
 <br>Marissa Nicosia
 <br>Assistant Professor of English
-Penn State University, Abington College
+<br>Penn State University, Abington College
 <br>
 "Interacting with Early Modern Recipe Books"
  
@@ -55,8 +55,8 @@ Marissa Nicosia, is Assistant Professor of Renaissance Literature at the Pennsyl
 <br>
 <br>Jacqueline Reid-Walsh
 <br>Associate Professor of Education (Language & Literacy Education) and Women’s Studies
-Penn State University, State College
-
+<br>Penn State University, State College
+<br>
 "Before Pop-Ups: children’s interactive books in the 18th and 19th centuries"
  
 Many people today associate the modern pop-up book with children, and often use the term to refer to all types of movable books for this market. Yet they often don't realize that for hundreds of years books with movable components have been directed towards Anglo-American children for education and pleasure. In this talk I examine several notable kinds; 18th century turn-up books, also called metamorphic pictures or harlequinades; early 19th century paper doll books with movable heads; and complex, late 19th century “mechanical books.” I examine the affordances of each type: flaps and accordion folds, tabs and slots, and combinations of two- and three-dimensional devices. In each case the actions of the book are controlled by the child reader-viewer-player or interactor.
@@ -68,8 +68,8 @@ Jacqueline Reid-Walsh is an Associate Professor at the Pennsylvania State Univer
 <br>
 <br>Gabrielle Dean
 <br>William Kurrelmeyer Curator of Rare Books and Manuscripts
-The Sheridan Libraries, Johns Hopkins University
-
+<br>The Sheridan Libraries, Johns Hopkins University
+<br>
 "Selfing in the Postcard Album"
  
 The modern picture postcard developed in the late nineteenth century as an expression of new governmental, technological, and commercial possibilities: postage costs and mail services; printing and photography; tourism and travel. The picture postcard offered a new medium not just for communication but, through its image options, self-expression. Often, nineteenth-century postcard collectors gathered their bounty into albums, to exist alongside or in combination with other kinds of paper-based personal collections: photographs in photo albums; resonant ephemera in scrapbooks; signatures, poetic extracts, and other textual mementoes in friendship albums. The postcard album references and in a sense incorporates a mode of interactivity—the writing and sending of postcards—that other albums don’t offer, supplementing that primary mode with another, the construction of a “book” through the curation and management of widely available material. “Selfing” in the postcard album is a process that does not lend itself to a final product—and the interactivity these albums facilitate is, likewise, both more constrained and more open-ended.
