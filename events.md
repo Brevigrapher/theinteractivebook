@@ -4,7 +4,7 @@ title: Related Events
 permalink: /events/
 banner:
   collection: ibx
-  pid: ibx22_hebrew_calendar
+  pid: ibx23_Smith_Eliza
   y: 40%
   height: 600px
 ---
