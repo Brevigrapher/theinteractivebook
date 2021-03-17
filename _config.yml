@@ -121,13 +121,15 @@ menu:
       - label: 'Use'
         link: '/browse/use/'
   - label: 'About'
-    link: '/about/'
+    sub:
+      - label: 'About the Project'
+        link: '/about/'
+      - label: 'Handlist'
+        link: '/handlist/'
   - label: 'Events'
     link: '/events/'
   - label: 'Sources'
     link: '/sources/'
-  - label: 'Handlist'
-    link: '/handlist/'
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS
