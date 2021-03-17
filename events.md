@@ -2,6 +2,11 @@
 layout: page
 title: Related Events
 permalink: /events/
+banner:
+  collection: ibx
+  pid: ibx22_hebrew_calendar
+  y: 40%
+  height: 600px
 ---
 A full program of events to accompany this exhibition has been scheduled for March-April 2021.
 
