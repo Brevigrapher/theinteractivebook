@@ -27,9 +27,8 @@ April 14
 
 Speakers Abstracts and Bios
 <br>
-<br>
 
-<br>Suzanne Karr Schmidt
+<br><b>Suzanne Karr Schmidt</b>
 <br>George Amos Poole III Curator of Rare Books and Manuscripts
 <br>Newberry Library
 <br> 
@@ -43,7 +42,7 @@ Suzanne Karr Schmidt, is the George Amos Poole III Curator of Rare Books and Man
 
 
 <br>
-<br>Marissa Nicosia
+<br><b>Marissa Nicosia</b>
 <br>Assistant Professor of English
 <br>Penn State University, Abington College
 <br>
@@ -61,7 +60,7 @@ Marissa Nicosia, is Assistant Professor of Renaissance Literature at the Pennsyl
 
 
 <br>
-<br>Jacqueline Reid-Walsh
+<br><b>Jacqueline Reid-Walsh</b>
 <br>Associate Professor of Education (Language & Literacy Education) and Women’s Studies
 <br>Penn State University, State College
 <br>
@@ -74,7 +73,7 @@ Jacqueline Reid-Walsh is an Associate Professor at the Pennsylvania State Univer
 
 
 <br>
-<br>Gabrielle Dean
+<br><b>Gabrielle Dean</b>
 <br>William Kurrelmeyer Curator of Rare Books and Manuscripts
 <br>The Sheridan Libraries, Johns Hopkins University
 <br>
