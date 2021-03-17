@@ -4,7 +4,7 @@ title: Related Events
 permalink: /events/
 banner:
   collection: ibx
-  pid: IBX22_Hebrew_Calendar
+  pid: ibx22_hebrew_calendar
   y: 40%
   height: 600px
 ---
