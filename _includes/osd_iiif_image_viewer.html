@@ -6,10 +6,11 @@
     var manifestUrl = "{{ include.manifest | absolute_url }}";
     $.getJSON(manifestUrl, function(data) {
       var tileSources = [];
-      $.each(data.sequences[0].canvases, function(k, val) {
-        var source = val.images[0].resource.service['@id'] + '/info.json'
-        source['thumb_url'] =  'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/PM5544_with_non-PAL_signals.png/200px-PM5544_with_non-PAL_signals.png'
-        tileSources.push(source);
+      $.each(data.sequences[0].canvases, function(_k, val) {
+        tileSources.push({
+          tileSource: val.images[0].resource.service['@id'] + '/info.json',
+          referenceStripThumbnailUrl: val.thumbnail
+        });
       });
       OpenSeadragon({
         id: "osd",
@@ -17,7 +18,7 @@
         sequenceMode: true,
         prefixUrl: "{{ '/assets/openseadragon/images/' | absolute_url }}",
         tileSources: tileSources,
-        showReferenceStrip: false,
+        showReferenceStrip: true,
       });
     });
   });
