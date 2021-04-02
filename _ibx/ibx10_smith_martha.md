@@ -36,4 +36,5 @@ full: "/img/derivatives/iiif/images/ibx10_smith_martha_smithmartha1/full/1140,/0
 osd: "/img/derivatives/iiif/images/ibx10_smith_martha_smithmartha1/full/501,/0/default.jpg"
 tiny: "/img/derivatives/iiif/images/ibx10_smith_martha_smithmartha1/full/90,/0/default.jpg"
 manifest: "/img/derivatives/iiif/ibx10_smith_martha/manifest.json"
+test: test
 ---
