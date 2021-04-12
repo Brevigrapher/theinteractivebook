@@ -5,28 +5,28 @@ layout: none
   "@context": "http://iiif.io/api/image/2/context.json",
   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx6_wollstonecraft_wollstonecraft2",
   "protocol": "http://iiif.io/api/image",
-  "width": 2409,
-  "height": 3824,
+  "width": 2657,
+  "height": 3668,
   "sizes": [
     {
-      "width": 2409,
-      "height": 3824
+      "width": 2657,
+      "height": 3668
     },
     {
       "width": 250,
-      "height": 397
+      "height": 345
     },
     {
       "width": 1140,
-      "height": 1810
+      "height": 1574
     },
     {
       "width": 501,
-      "height": 795
+      "height": 692
     },
     {
       "width": 90,
-      "height": 143
+      "height": 124
     }
   ],
   "profile": [

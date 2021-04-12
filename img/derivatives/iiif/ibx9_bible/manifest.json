@@ -46,8 +46,8 @@ layout: none
           "@type": "sc:Canvas",
           "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx9_bible_bible2.json",
           "label": "Page 2",
-          "width": 2743,
-          "height": 3775,
+          "width": 2768,
+          "height": 3609,
           "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx9_bible_bible2/full/250,/0/default.jpg",
           "images": [
             {
@@ -63,10 +63,178 @@ layout: none
                   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx9_bible_bible2",
                   "profile": "http://iiif.io/api/image/2/level0.json"
                 },
-                "width": 2743,
-                "height": 3775
+                "width": 2768,
+                "height": 3609
               },
               "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx9_bible_bible2.json"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx9_bible_bible3.json",
+          "label": "Page 3",
+          "width": 2590,
+          "height": 3831,
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx9_bible_bible3/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx9_bible_bible3.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx9_bible_bible3/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx9_bible_bible3",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 2590,
+                "height": 3831
+              },
+              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx9_bible_bible3.json"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx9_bible_bible4.json",
+          "label": "Page 4",
+          "width": 2629,
+          "height": 3688,
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx9_bible_bible4/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx9_bible_bible4.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx9_bible_bible4/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx9_bible_bible4",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 2629,
+                "height": 3688
+              },
+              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx9_bible_bible4.json"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx9_bible_bible5.json",
+          "label": "Page 5",
+          "width": 2812,
+          "height": 3751,
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx9_bible_bible5/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx9_bible_bible5.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx9_bible_bible5/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx9_bible_bible5",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 2812,
+                "height": 3751
+              },
+              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx9_bible_bible5.json"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx9_bible_bible6.json",
+          "label": "Page 6",
+          "width": 2687,
+          "height": 3770,
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx9_bible_bible6/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx9_bible_bible6.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx9_bible_bible6/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx9_bible_bible6",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 2687,
+                "height": 3770
+              },
+              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx9_bible_bible6.json"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx9_bible_bible7.json",
+          "label": "Page 7",
+          "width": 2496,
+          "height": 3713,
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx9_bible_bible7/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx9_bible_bible7.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx9_bible_bible7/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx9_bible_bible7",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 2496,
+                "height": 3713
+              },
+              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx9_bible_bible7.json"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx9_bible_bible8.json",
+          "label": "Page 8",
+          "width": 2582,
+          "height": 3601,
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx9_bible_bible8/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx9_bible_bible8.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx9_bible_bible8/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx9_bible_bible8",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 2582,
+                "height": 3601
+              },
+              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx9_bible_bible8.json"
             }
           ]
         }

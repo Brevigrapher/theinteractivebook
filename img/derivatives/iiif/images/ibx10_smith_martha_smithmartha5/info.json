@@ -1,0 +1,53 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx10_smith_martha_smithmartha5",
+  "protocol": "http://iiif.io/api/image",
+  "width": 3717,
+  "height": 2829,
+  "sizes": [
+    {
+      "width": 3717,
+      "height": 2829
+    },
+    {
+      "width": 250,
+      "height": 190
+    },
+    {
+      "width": 1140,
+      "height": 868
+    },
+    {
+      "width": 501,
+      "height": 381
+    },
+    {
+      "width": 90,
+      "height": 68
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}

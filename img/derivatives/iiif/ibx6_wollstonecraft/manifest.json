@@ -18,8 +18,8 @@ layout: none
           "@type": "sc:Canvas",
           "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx6_wollstonecraft_wollstonecraft1.json",
           "label": "Page 1",
-          "width": 2969,
-          "height": 4023,
+          "width": 2631,
+          "height": 3669,
           "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx6_wollstonecraft_wollstonecraft1/full/250,/0/default.jpg",
           "images": [
             {
@@ -35,8 +35,8 @@ layout: none
                   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx6_wollstonecraft_wollstonecraft1",
                   "profile": "http://iiif.io/api/image/2/level0.json"
                 },
-                "width": 2969,
-                "height": 4023
+                "width": 2631,
+                "height": 3669
               },
               "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx6_wollstonecraft_wollstonecraft1.json"
             }
@@ -46,8 +46,8 @@ layout: none
           "@type": "sc:Canvas",
           "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx6_wollstonecraft_wollstonecraft2.json",
           "label": "Page 2",
-          "width": 2409,
-          "height": 3824,
+          "width": 2657,
+          "height": 3668,
           "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx6_wollstonecraft_wollstonecraft2/full/250,/0/default.jpg",
           "images": [
             {
@@ -63,10 +63,66 @@ layout: none
                   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx6_wollstonecraft_wollstonecraft2",
                   "profile": "http://iiif.io/api/image/2/level0.json"
                 },
-                "width": 2409,
-                "height": 3824
+                "width": 2657,
+                "height": 3668
               },
               "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx6_wollstonecraft_wollstonecraft2.json"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx6_wollstonecraft_wollstonecraft3.json",
+          "label": "Page 3",
+          "width": 2773,
+          "height": 3715,
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx6_wollstonecraft_wollstonecraft3/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx6_wollstonecraft_wollstonecraft3.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx6_wollstonecraft_wollstonecraft3/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx6_wollstonecraft_wollstonecraft3",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 2773,
+                "height": 3715
+              },
+              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx6_wollstonecraft_wollstonecraft3.json"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx6_wollstonecraft_wollstonecraft4.json",
+          "label": "Page 4",
+          "width": 2945,
+          "height": 3639,
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx6_wollstonecraft_wollstonecraft4/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx6_wollstonecraft_wollstonecraft4.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx6_wollstonecraft_wollstonecraft4/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx6_wollstonecraft_wollstonecraft4",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 2945,
+                "height": 3639
+              },
+              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx6_wollstonecraft_wollstonecraft4.json"
             }
           ]
         }

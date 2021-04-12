@@ -1,0 +1,53 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx16_rose_merton_rose_merton4",
+  "protocol": "http://iiif.io/api/image",
+  "width": 2807,
+  "height": 3869,
+  "sizes": [
+    {
+      "width": 2807,
+      "height": 3869
+    },
+    {
+      "width": 250,
+      "height": 345
+    },
+    {
+      "width": 1140,
+      "height": 1571
+    },
+    {
+      "width": 501,
+      "height": 691
+    },
+    {
+      "width": 90,
+      "height": 124
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}

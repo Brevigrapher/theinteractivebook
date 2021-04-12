@@ -5,28 +5,28 @@ layout: none
   "@context": "http://iiif.io/api/image/2/context.json",
   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx2_beze_beze1",
   "protocol": "http://iiif.io/api/image",
-  "width": 3285,
-  "height": 2735,
+  "width": 3517,
+  "height": 2851,
   "sizes": [
     {
-      "width": 3285,
-      "height": 2735
+      "width": 3517,
+      "height": 2851
     },
     {
       "width": 250,
-      "height": 208
+      "height": 203
     },
     {
       "width": 1140,
-      "height": 949
+      "height": 924
     },
     {
       "width": 501,
-      "height": 417
+      "height": 406
     },
     {
       "width": 90,
-      "height": 75
+      "height": 73
     }
   ],
   "profile": [

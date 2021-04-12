@@ -1,0 +1,53 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx3_camden_camden2",
+  "protocol": "http://iiif.io/api/image",
+  "width": 3592,
+  "height": 2706,
+  "sizes": [
+    {
+      "width": 3592,
+      "height": 2706
+    },
+    {
+      "width": 250,
+      "height": 188
+    },
+    {
+      "width": 1140,
+      "height": 859
+    },
+    {
+      "width": 501,
+      "height": 377
+    },
+    {
+      "width": 90,
+      "height": 68
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}

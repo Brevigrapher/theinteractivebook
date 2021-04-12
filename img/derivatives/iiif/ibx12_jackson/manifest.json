@@ -6,47 +6,187 @@ layout: none
   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ibx12_jackson/manifest.json",
   "@type": "sc:Manifest",
   "label": "ibx12_jackson",
-  "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx12_jackson/full/250,/0/default.jpg",
+  "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx12_jackson_jackson1/full/250,/0/default.jpg",
   "viewingDirection": "left-to-right",
   "viewingHint": "individuals",
   "sequences": [
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/sequence/ibx12_jackson.json",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/sequence/ibx12_jackson_jackson1.json",
       "@type": "sc:Sequence",
       "canvases": [
         {
           "@type": "sc:Canvas",
-          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx12_jackson.json",
-          "label": "front",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx12_jackson_jackson1.json",
+          "label": "Page 1",
           "width": 1639,
           "height": 1527,
-          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx12_jackson/full/250,/0/default.jpg",
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx12_jackson_jackson1/full/250,/0/default.jpg",
           "images": [
             {
               "@type": "oa:Annotation",
-              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx12_jackson.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx12_jackson_jackson1.json",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx12_jackson/full/full/0/default.jpg",
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx12_jackson_jackson1/full/full/0/default.jpg",
                 "@type": "dcterms:Image",
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx12_jackson",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx12_jackson_jackson1",
                   "profile": "http://iiif.io/api/image/2/level0.json"
                 },
                 "width": 1639,
                 "height": 1527
               },
-              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx12_jackson.json"
+              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx12_jackson_jackson1.json"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx12_jackson_jackson2.json",
+          "label": "Page 2",
+          "width": 1697,
+          "height": 1514,
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx12_jackson_jackson2/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx12_jackson_jackson2.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx12_jackson_jackson2/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx12_jackson_jackson2",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 1697,
+                "height": 1514
+              },
+              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx12_jackson_jackson2.json"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx12_jackson_jackson3.json",
+          "label": "Page 3",
+          "width": 2558,
+          "height": 1516,
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx12_jackson_jackson3/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx12_jackson_jackson3.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx12_jackson_jackson3/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx12_jackson_jackson3",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 2558,
+                "height": 1516
+              },
+              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx12_jackson_jackson3.json"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx12_jackson_jackson4.json",
+          "label": "Page 4",
+          "width": 2192,
+          "height": 1380,
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx12_jackson_jackson4/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx12_jackson_jackson4.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx12_jackson_jackson4/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx12_jackson_jackson4",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 1096,
+                "height": 690
+              },
+              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx12_jackson_jackson4.json"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx12_jackson_jackson5.json",
+          "label": "Page 5",
+          "width": 2316,
+          "height": 1420,
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx12_jackson_jackson5/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx12_jackson_jackson5.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx12_jackson_jackson5/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx12_jackson_jackson5",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 2316,
+                "height": 1420
+              },
+              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx12_jackson_jackson5.json"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx12_jackson_jackson6.json",
+          "label": "Page 6",
+          "width": 2200,
+          "height": 2248,
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx12_jackson_jackson6/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx12_jackson_jackson6.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx12_jackson_jackson6/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx12_jackson_jackson6",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 1100,
+                "height": 1124
+              },
+              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx12_jackson_jackson6.json"
             }
           ]
         }
       ]
     }
   ],
-  "full": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx12_jackson/full/full/0/default.jpg",
-  "fullwidth": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx12_jackson/full/1140,/0/default.jpg",
-  "osd": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx12_jackson/full/501,/0/default.jpg",
-  "tiny": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx12_jackson/full/90,/0/default.jpg"
+  "full": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx12_jackson_jackson1/full/full/0/default.jpg",
+  "fullwidth": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx12_jackson_jackson1/full/1140,/0/default.jpg",
+  "osd": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx12_jackson_jackson1/full/501,/0/default.jpg",
+  "tiny": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx12_jackson_jackson1/full/90,/0/default.jpg"
 }

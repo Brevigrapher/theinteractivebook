@@ -6,47 +6,187 @@ layout: none
   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ibx1_holinshed/manifest.json",
   "@type": "sc:Manifest",
   "label": "ibx1_holinshed",
-  "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx1_holinshed/full/250,/0/default.jpg",
+  "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx1_holinshed_holinshed1/full/250,/0/default.jpg",
   "viewingDirection": "left-to-right",
   "viewingHint": "individuals",
   "sequences": [
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/sequence/ibx1_holinshed.json",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/sequence/ibx1_holinshed_holinshed1.json",
       "@type": "sc:Sequence",
       "canvases": [
         {
           "@type": "sc:Canvas",
-          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx1_holinshed.json",
-          "label": "front",
-          "width": 2969,
-          "height": 3780,
-          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx1_holinshed/full/250,/0/default.jpg",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx1_holinshed_holinshed1.json",
+          "label": "Page 1",
+          "width": 3715,
+          "height": 2573,
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx1_holinshed_holinshed1/full/250,/0/default.jpg",
           "images": [
             {
               "@type": "oa:Annotation",
-              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx1_holinshed.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx1_holinshed_holinshed1.json",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx1_holinshed/full/full/0/default.jpg",
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx1_holinshed_holinshed1/full/full/0/default.jpg",
                 "@type": "dcterms:Image",
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx1_holinshed",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx1_holinshed_holinshed1",
                   "profile": "http://iiif.io/api/image/2/level0.json"
                 },
-                "width": 2969,
-                "height": 3780
+                "width": 3715,
+                "height": 2573
               },
-              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx1_holinshed.json"
+              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx1_holinshed_holinshed1.json"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx1_holinshed_holinshed2.json",
+          "label": "Page 2",
+          "width": 3658,
+          "height": 2448,
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx1_holinshed_holinshed2/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx1_holinshed_holinshed2.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx1_holinshed_holinshed2/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx1_holinshed_holinshed2",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 3658,
+                "height": 2448
+              },
+              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx1_holinshed_holinshed2.json"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx1_holinshed_holinshed3.json",
+          "label": "Page 3",
+          "width": 2466,
+          "height": 3231,
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx1_holinshed_holinshed3/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx1_holinshed_holinshed3.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx1_holinshed_holinshed3/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx1_holinshed_holinshed3",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 2466,
+                "height": 3231
+              },
+              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx1_holinshed_holinshed3.json"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx1_holinshed_holinshed4.json",
+          "label": "Page 4",
+          "width": 3024,
+          "height": 3553,
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx1_holinshed_holinshed4/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx1_holinshed_holinshed4.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx1_holinshed_holinshed4/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx1_holinshed_holinshed4",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 3024,
+                "height": 3553
+              },
+              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx1_holinshed_holinshed4.json"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx1_holinshed_holinshed5.json",
+          "label": "Page 5",
+          "width": 2443,
+          "height": 3298,
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx1_holinshed_holinshed5/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx1_holinshed_holinshed5.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx1_holinshed_holinshed5/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx1_holinshed_holinshed5",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 2443,
+                "height": 3298
+              },
+              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx1_holinshed_holinshed5.json"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx1_holinshed_holinshed6.json",
+          "label": "Page 6",
+          "width": 2858,
+          "height": 3463,
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx1_holinshed_holinshed6/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx1_holinshed_holinshed6.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx1_holinshed_holinshed6/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx1_holinshed_holinshed6",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 2858,
+                "height": 3463
+              },
+              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx1_holinshed_holinshed6.json"
             }
           ]
         }
       ]
     }
   ],
-  "full": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx1_holinshed/full/full/0/default.jpg",
-  "fullwidth": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx1_holinshed/full/1140,/0/default.jpg",
-  "osd": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx1_holinshed/full/501,/0/default.jpg",
-  "tiny": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx1_holinshed/full/90,/0/default.jpg"
+  "full": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx1_holinshed_holinshed1/full/full/0/default.jpg",
+  "fullwidth": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx1_holinshed_holinshed1/full/1140,/0/default.jpg",
+  "osd": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx1_holinshed_holinshed1/full/501,/0/default.jpg",
+  "tiny": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx1_holinshed_holinshed1/full/90,/0/default.jpg"
 }

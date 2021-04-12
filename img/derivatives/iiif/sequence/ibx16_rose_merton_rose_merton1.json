@@ -1,0 +1,150 @@
+---
+layout: none
+---
+{
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/sequence/ibx16_rose_merton_rose_merton1.json",
+  "@type": "sc:Sequence",
+  "canvases": [
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx16_rose_merton_rose_merton1.json",
+      "label": "Page 1",
+      "width": 2691,
+      "height": 3732,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx16_rose_merton_rose_merton1/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx16_rose_merton_rose_merton1.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx16_rose_merton_rose_merton1/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx16_rose_merton_rose_merton1",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 2691,
+            "height": 3732
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx16_rose_merton_rose_merton1.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx16_rose_merton_rose_merton2.json",
+      "label": "Page 2",
+      "width": 2868,
+      "height": 3951,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx16_rose_merton_rose_merton2/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx16_rose_merton_rose_merton2.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx16_rose_merton_rose_merton2/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx16_rose_merton_rose_merton2",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 2868,
+            "height": 3951
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx16_rose_merton_rose_merton2.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx16_rose_merton_rose_merton3.json",
+      "label": "Page 3",
+      "width": 3781,
+      "height": 2892,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx16_rose_merton_rose_merton3/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx16_rose_merton_rose_merton3.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx16_rose_merton_rose_merton3/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx16_rose_merton_rose_merton3",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 3781,
+            "height": 2892
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx16_rose_merton_rose_merton3.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx16_rose_merton_rose_merton4.json",
+      "label": "Page 4",
+      "width": 2807,
+      "height": 3869,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx16_rose_merton_rose_merton4/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx16_rose_merton_rose_merton4.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx16_rose_merton_rose_merton4/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx16_rose_merton_rose_merton4",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 2807,
+            "height": 3869
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx16_rose_merton_rose_merton4.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx16_rose_merton_rose_merton5.json",
+      "label": "Page 5",
+      "width": 3827,
+      "height": 2864,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx16_rose_merton_rose_merton5/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx16_rose_merton_rose_merton5.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx16_rose_merton_rose_merton5/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx16_rose_merton_rose_merton5",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 3827,
+            "height": 2864
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx16_rose_merton_rose_merton5.json"
+        }
+      ]
+    }
+  ],
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}

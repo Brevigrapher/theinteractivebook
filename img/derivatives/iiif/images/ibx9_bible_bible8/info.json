@@ -1,0 +1,53 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx9_bible_bible8",
+  "protocol": "http://iiif.io/api/image",
+  "width": 2582,
+  "height": 3601,
+  "sizes": [
+    {
+      "width": 2582,
+      "height": 3601
+    },
+    {
+      "width": 250,
+      "height": 349
+    },
+    {
+      "width": 1140,
+      "height": 1590
+    },
+    {
+      "width": 501,
+      "height": 699
+    },
+    {
+      "width": 90,
+      "height": 126
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}

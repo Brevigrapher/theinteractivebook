@@ -65,8 +65,8 @@ layout: none
       "@type": "sc:Canvas",
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx22_hebrew_calendar_wheel_hebrewcalendar3.json",
       "label": "Page 3",
-      "width": 3808,
-      "height": 2545,
+      "width": 3794,
+      "height": 2475,
       "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx22_hebrew_calendar_wheel_hebrewcalendar3/full/250,/0/default.jpg",
       "images": [
         {
@@ -82,10 +82,38 @@ layout: none
               "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx22_hebrew_calendar_wheel_hebrewcalendar3",
               "profile": "http://iiif.io/api/image/2/level0.json"
             },
-            "width": 3808,
-            "height": 2545
+            "width": 3794,
+            "height": 2475
           },
           "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx22_hebrew_calendar_wheel_hebrewcalendar3.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx22_hebrew_calendar_wheel_hebrewcalendar4.json",
+      "label": "Page 4",
+      "width": 2771,
+      "height": 3450,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx22_hebrew_calendar_wheel_hebrewcalendar4/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx22_hebrew_calendar_wheel_hebrewcalendar4.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx22_hebrew_calendar_wheel_hebrewcalendar4/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx22_hebrew_calendar_wheel_hebrewcalendar4",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 2771,
+            "height": 3450
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx22_hebrew_calendar_wheel_hebrewcalendar4.json"
         }
       ]
     }

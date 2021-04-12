@@ -5,28 +5,28 @@ layout: none
   "@context": "http://iiif.io/api/image/2/context.json",
   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx5_radcliffe_radcliffe2",
   "protocol": "http://iiif.io/api/image",
-  "width": 1445,
-  "height": 2290,
+  "width": 2750,
+  "height": 3860,
   "sizes": [
     {
-      "width": 1445,
-      "height": 2290
+      "width": 2750,
+      "height": 3860
     },
     {
       "width": 250,
-      "height": 396
+      "height": 351
     },
     {
       "width": 1140,
-      "height": 1807
+      "height": 1600
     },
     {
       "width": 501,
-      "height": 794
+      "height": 703
     },
     {
       "width": 90,
-      "height": 143
+      "height": 126
     }
   ],
   "profile": [

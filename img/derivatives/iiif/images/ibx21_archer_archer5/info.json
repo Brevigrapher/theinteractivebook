@@ -1,0 +1,53 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx21_archer_archer5",
+  "protocol": "http://iiif.io/api/image",
+  "width": 2970,
+  "height": 2545,
+  "sizes": [
+    {
+      "width": 2970,
+      "height": 2545
+    },
+    {
+      "width": 250,
+      "height": 214
+    },
+    {
+      "width": 1140,
+      "height": 977
+    },
+    {
+      "width": 501,
+      "height": 429
+    },
+    {
+      "width": 90,
+      "height": 77
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}

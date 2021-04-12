@@ -1,0 +1,53 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx13_mellis_mellis2",
+  "protocol": "http://iiif.io/api/image",
+  "width": 2739,
+  "height": 3186,
+  "sizes": [
+    {
+      "width": 2739,
+      "height": 3186
+    },
+    {
+      "width": 250,
+      "height": 291
+    },
+    {
+      "width": 1140,
+      "height": 1326
+    },
+    {
+      "width": 501,
+      "height": 583
+    },
+    {
+      "width": 90,
+      "height": 105
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}

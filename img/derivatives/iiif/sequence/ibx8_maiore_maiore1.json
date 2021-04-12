@@ -9,8 +9,8 @@ layout: none
       "@type": "sc:Canvas",
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx8_maiore_maiore1.json",
       "label": "Page 1",
-      "width": 1759,
-      "height": 2197,
+      "width": 2664,
+      "height": 3103,
       "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx8_maiore_maiore1/full/250,/0/default.jpg",
       "images": [
         {
@@ -26,8 +26,8 @@ layout: none
               "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx8_maiore_maiore1",
               "profile": "http://iiif.io/api/image/2/level0.json"
             },
-            "width": 1759,
-            "height": 2197
+            "width": 2664,
+            "height": 3103
           },
           "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx8_maiore_maiore1.json"
         }
@@ -37,8 +37,8 @@ layout: none
       "@type": "sc:Canvas",
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx8_maiore_maiore2.json",
       "label": "Page 2",
-      "width": 2445,
-      "height": 2976,
+      "width": 3936,
+      "height": 2403,
       "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx8_maiore_maiore2/full/250,/0/default.jpg",
       "images": [
         {
@@ -54,10 +54,122 @@ layout: none
               "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx8_maiore_maiore2",
               "profile": "http://iiif.io/api/image/2/level0.json"
             },
+            "width": 3936,
+            "height": 2403
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx8_maiore_maiore2.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx8_maiore_maiore3.json",
+      "label": "Page 3",
+      "width": 2445,
+      "height": 2976,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx8_maiore_maiore3/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx8_maiore_maiore3.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx8_maiore_maiore3/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx8_maiore_maiore3",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
             "width": 2445,
             "height": 2976
           },
-          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx8_maiore_maiore2.json"
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx8_maiore_maiore3.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx8_maiore_maiore4.json",
+      "label": "Page 4",
+      "width": 4032,
+      "height": 3024,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx8_maiore_maiore4/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx8_maiore_maiore4.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx8_maiore_maiore4/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx8_maiore_maiore4",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 4032,
+            "height": 3024
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx8_maiore_maiore4.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx8_maiore_maiore5.json",
+      "label": "Page 5",
+      "width": 2947,
+      "height": 4003,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx8_maiore_maiore5/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx8_maiore_maiore5.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx8_maiore_maiore5/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx8_maiore_maiore5",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 2947,
+            "height": 4003
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx8_maiore_maiore5.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx8_maiore_maiore6.json",
+      "label": "Page 6",
+      "width": 3534,
+      "height": 2888,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx8_maiore_maiore6/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx8_maiore_maiore6.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx8_maiore_maiore6/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx8_maiore_maiore6",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 3534,
+            "height": 2888
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx8_maiore_maiore6.json"
         }
       ]
     }

@@ -5,28 +5,28 @@ layout: none
   "@context": "http://iiif.io/api/image/2/context.json",
   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx22_hebrew_calendar_wheel_hebrewcalendar3",
   "protocol": "http://iiif.io/api/image",
-  "width": 3808,
-  "height": 2545,
+  "width": 3794,
+  "height": 2475,
   "sizes": [
     {
-      "width": 3808,
-      "height": 2545
+      "width": 3794,
+      "height": 2475
     },
     {
       "width": 250,
-      "height": 167
+      "height": 163
     },
     {
       "width": 1140,
-      "height": 762
+      "height": 744
     },
     {
       "width": 501,
-      "height": 335
+      "height": 327
     },
     {
       "width": 90,
-      "height": 60
+      "height": 59
     }
   ],
   "profile": [

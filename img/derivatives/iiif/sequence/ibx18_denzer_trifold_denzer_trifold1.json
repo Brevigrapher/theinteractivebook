@@ -1,0 +1,234 @@
+---
+layout: none
+---
+{
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/sequence/ibx18_denzer_trifold_denzer_trifold1.json",
+  "@type": "sc:Sequence",
+  "canvases": [
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx18_denzer_trifold_denzer_trifold1.json",
+      "label": "Page 1",
+      "width": 4290,
+      "height": 2700,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx18_denzer_trifold_denzer_trifold1/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx18_denzer_trifold_denzer_trifold1.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx18_denzer_trifold_denzer_trifold1/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx18_denzer_trifold_denzer_trifold1",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 4290,
+            "height": 2700
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx18_denzer_trifold_denzer_trifold1.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx18_denzer_trifold_denzer_trifold2.json",
+      "label": "Page 2",
+      "width": 4290,
+      "height": 2700,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx18_denzer_trifold_denzer_trifold2/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx18_denzer_trifold_denzer_trifold2.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx18_denzer_trifold_denzer_trifold2/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx18_denzer_trifold_denzer_trifold2",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 4290,
+            "height": 2700
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx18_denzer_trifold_denzer_trifold2.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx18_denzer_trifold_denzer_trifold3.json",
+      "label": "Page 3",
+      "width": 4290,
+      "height": 2700,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx18_denzer_trifold_denzer_trifold3/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx18_denzer_trifold_denzer_trifold3.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx18_denzer_trifold_denzer_trifold3/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx18_denzer_trifold_denzer_trifold3",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 4290,
+            "height": 2700
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx18_denzer_trifold_denzer_trifold3.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx18_denzer_trifold_denzer_trifold4.json",
+      "label": "Page 4",
+      "width": 4290,
+      "height": 2700,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx18_denzer_trifold_denzer_trifold4/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx18_denzer_trifold_denzer_trifold4.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx18_denzer_trifold_denzer_trifold4/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx18_denzer_trifold_denzer_trifold4",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 4290,
+            "height": 2700
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx18_denzer_trifold_denzer_trifold4.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx18_denzer_trifold_denzer_trifold5.json",
+      "label": "Page 5",
+      "width": 4290,
+      "height": 2700,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx18_denzer_trifold_denzer_trifold5/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx18_denzer_trifold_denzer_trifold5.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx18_denzer_trifold_denzer_trifold5/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx18_denzer_trifold_denzer_trifold5",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 4290,
+            "height": 2700
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx18_denzer_trifold_denzer_trifold5.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx18_denzer_trifold_denzer_trifold6.json",
+      "label": "Page 6",
+      "width": 4290,
+      "height": 2700,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx18_denzer_trifold_denzer_trifold6/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx18_denzer_trifold_denzer_trifold6.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx18_denzer_trifold_denzer_trifold6/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx18_denzer_trifold_denzer_trifold6",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 4290,
+            "height": 2700
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx18_denzer_trifold_denzer_trifold6.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx18_denzer_trifold_denzer_trifold7.json",
+      "label": "Page 7",
+      "width": 4290,
+      "height": 2700,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx18_denzer_trifold_denzer_trifold7/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx18_denzer_trifold_denzer_trifold7.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx18_denzer_trifold_denzer_trifold7/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx18_denzer_trifold_denzer_trifold7",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 4290,
+            "height": 2700
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx18_denzer_trifold_denzer_trifold7.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx18_denzer_trifold_denzer_trifold8.json",
+      "label": "Page 8",
+      "width": 4290,
+      "height": 2700,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx18_denzer_trifold_denzer_trifold8/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx18_denzer_trifold_denzer_trifold8.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx18_denzer_trifold_denzer_trifold8/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx18_denzer_trifold_denzer_trifold8",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 4290,
+            "height": 2700
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx18_denzer_trifold_denzer_trifold8.json"
+        }
+      ]
+    }
+  ],
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}

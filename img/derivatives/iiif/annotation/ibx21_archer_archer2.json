@@ -14,8 +14,8 @@ layout: none
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx21_archer_archer2",
       "profile": "http://iiif.io/api/image/2/level0.json"
     },
-    "width": 2998,
-    "height": 3998
+    "width": 3261,
+    "height": 2591
   },
   "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx21_archer_archer2.json",
   "@context": "http://iiif.io/api/presentation/2/context.json"

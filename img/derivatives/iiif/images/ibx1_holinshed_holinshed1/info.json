@@ -1,0 +1,53 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx1_holinshed_holinshed1",
+  "protocol": "http://iiif.io/api/image",
+  "width": 3715,
+  "height": 2573,
+  "sizes": [
+    {
+      "width": 3715,
+      "height": 2573
+    },
+    {
+      "width": 250,
+      "height": 173
+    },
+    {
+      "width": 1140,
+      "height": 790
+    },
+    {
+      "width": 501,
+      "height": 347
+    },
+    {
+      "width": 90,
+      "height": 62
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}

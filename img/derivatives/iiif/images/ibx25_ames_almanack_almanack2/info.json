@@ -1,0 +1,53 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx25_ames_almanack_almanack2",
+  "protocol": "http://iiif.io/api/image",
+  "width": 3095,
+  "height": 2958,
+  "sizes": [
+    {
+      "width": 3095,
+      "height": 2958
+    },
+    {
+      "width": 250,
+      "height": 239
+    },
+    {
+      "width": 1140,
+      "height": 1090
+    },
+    {
+      "width": 501,
+      "height": 479
+    },
+    {
+      "width": 90,
+      "height": 86
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}

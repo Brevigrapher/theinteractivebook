@@ -5,28 +5,28 @@ layout: none
   "@context": "http://iiif.io/api/image/2/context.json",
   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx21_archer_archer1",
   "protocol": "http://iiif.io/api/image",
-  "width": 3049,
-  "height": 2726,
+  "width": 3056,
+  "height": 2597,
   "sizes": [
     {
-      "width": 3049,
-      "height": 2726
+      "width": 3056,
+      "height": 2597
     },
     {
       "width": 250,
-      "height": 224
+      "height": 212
     },
     {
       "width": 1140,
-      "height": 1019
+      "height": 969
     },
     {
       "width": 501,
-      "height": 448
+      "height": 426
     },
     {
       "width": 90,
-      "height": 80
+      "height": 76
     }
   ],
   "profile": [

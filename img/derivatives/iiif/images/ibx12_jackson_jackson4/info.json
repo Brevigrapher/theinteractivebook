@@ -1,0 +1,53 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx12_jackson_jackson4",
+  "protocol": "http://iiif.io/api/image",
+  "width": 1096,
+  "height": 690,
+  "sizes": [
+    {
+      "width": 1096,
+      "height": 690
+    },
+    {
+      "width": 250,
+      "height": 157
+    },
+    {
+      "width": 1140,
+      "height": 718
+    },
+    {
+      "width": 501,
+      "height": 315
+    },
+    {
+      "width": 90,
+      "height": 57
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}

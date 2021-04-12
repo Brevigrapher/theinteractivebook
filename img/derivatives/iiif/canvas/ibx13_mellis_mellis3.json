@@ -1,0 +1,32 @@
+---
+layout: none
+---
+{
+  "@type": "sc:Canvas",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx13_mellis_mellis3.json",
+  "label": "Page 3",
+  "width": 2959,
+  "height": 3525,
+  "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx13_mellis_mellis3/full/250,/0/default.jpg",
+  "images": [
+    {
+      "@type": "oa:Annotation",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx13_mellis_mellis3.json",
+      "motivation": "sc:painting",
+      "resource": {
+        "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx13_mellis_mellis3/full/full/0/default.jpg",
+        "@type": "dcterms:Image",
+        "format": "image/jpeg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx13_mellis_mellis3",
+          "profile": "http://iiif.io/api/image/2/level0.json"
+        },
+        "width": 2959,
+        "height": 3525
+      },
+      "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx13_mellis_mellis3.json"
+    }
+  ],
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}

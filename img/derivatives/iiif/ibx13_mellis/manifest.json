@@ -6,47 +6,131 @@ layout: none
   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ibx13_mellis/manifest.json",
   "@type": "sc:Manifest",
   "label": "ibx13_mellis",
-  "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx13_mellis/full/250,/0/default.jpg",
+  "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx13_mellis_mellis1/full/250,/0/default.jpg",
   "viewingDirection": "left-to-right",
   "viewingHint": "individuals",
   "sequences": [
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/sequence/ibx13_mellis.json",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/sequence/ibx13_mellis_mellis1.json",
       "@type": "sc:Sequence",
       "canvases": [
         {
           "@type": "sc:Canvas",
-          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx13_mellis.json",
-          "label": "front",
-          "width": 2757,
-          "height": 3223,
-          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx13_mellis/full/250,/0/default.jpg",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx13_mellis_mellis1.json",
+          "label": "Page 1",
+          "width": 2770,
+          "height": 3281,
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx13_mellis_mellis1/full/250,/0/default.jpg",
           "images": [
             {
               "@type": "oa:Annotation",
-              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx13_mellis.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx13_mellis_mellis1.json",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx13_mellis/full/full/0/default.jpg",
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx13_mellis_mellis1/full/full/0/default.jpg",
                 "@type": "dcterms:Image",
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx13_mellis",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx13_mellis_mellis1",
                   "profile": "http://iiif.io/api/image/2/level0.json"
                 },
-                "width": 2757,
-                "height": 3223
+                "width": 2770,
+                "height": 3281
               },
-              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx13_mellis.json"
+              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx13_mellis_mellis1.json"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx13_mellis_mellis2.json",
+          "label": "Page 2",
+          "width": 2739,
+          "height": 3186,
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx13_mellis_mellis2/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx13_mellis_mellis2.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx13_mellis_mellis2/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx13_mellis_mellis2",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 2739,
+                "height": 3186
+              },
+              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx13_mellis_mellis2.json"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx13_mellis_mellis3.json",
+          "label": "Page 3",
+          "width": 2959,
+          "height": 3525,
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx13_mellis_mellis3/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx13_mellis_mellis3.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx13_mellis_mellis3/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx13_mellis_mellis3",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 2959,
+                "height": 3525
+              },
+              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx13_mellis_mellis3.json"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx13_mellis_mellis4.json",
+          "label": "Page 4",
+          "width": 2563,
+          "height": 3002,
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx13_mellis_mellis4/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx13_mellis_mellis4.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx13_mellis_mellis4/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx13_mellis_mellis4",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 2563,
+                "height": 3002
+              },
+              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx13_mellis_mellis4.json"
             }
           ]
         }
       ]
     }
   ],
-  "full": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx13_mellis/full/full/0/default.jpg",
-  "fullwidth": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx13_mellis/full/1140,/0/default.jpg",
-  "osd": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx13_mellis/full/501,/0/default.jpg",
-  "tiny": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx13_mellis/full/90,/0/default.jpg"
+  "full": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx13_mellis_mellis1/full/full/0/default.jpg",
+  "fullwidth": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx13_mellis_mellis1/full/1140,/0/default.jpg",
+  "osd": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx13_mellis_mellis1/full/501,/0/default.jpg",
+  "tiny": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx13_mellis_mellis1/full/90,/0/default.jpg"
 }

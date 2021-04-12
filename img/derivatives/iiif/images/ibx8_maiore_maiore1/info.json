@@ -5,28 +5,28 @@ layout: none
   "@context": "http://iiif.io/api/image/2/context.json",
   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx8_maiore_maiore1",
   "protocol": "http://iiif.io/api/image",
-  "width": 1759,
-  "height": 2197,
+  "width": 2664,
+  "height": 3103,
   "sizes": [
     {
-      "width": 1759,
-      "height": 2197
+      "width": 2664,
+      "height": 3103
     },
     {
       "width": 250,
-      "height": 312
+      "height": 291
     },
     {
       "width": 1140,
-      "height": 1424
+      "height": 1328
     },
     {
       "width": 501,
-      "height": 626
+      "height": 584
     },
     {
       "width": 90,
-      "height": 112
+      "height": 105
     }
   ],
   "profile": [

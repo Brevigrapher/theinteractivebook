@@ -5,28 +5,28 @@ layout: none
   "@context": "http://iiif.io/api/image/2/context.json",
   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx23_smith_eliza_smith_eliza1",
   "protocol": "http://iiif.io/api/image",
-  "width": 2419,
-  "height": 3840,
+  "width": 2332,
+  "height": 3636,
   "sizes": [
     {
-      "width": 2419,
-      "height": 3840
+      "width": 2332,
+      "height": 3636
     },
     {
       "width": 250,
-      "height": 397
+      "height": 390
     },
     {
       "width": 1140,
-      "height": 1810
+      "height": 1777
     },
     {
       "width": 501,
-      "height": 795
+      "height": 781
     },
     {
       "width": 90,
-      "height": 143
+      "height": 140
     }
   ],
   "profile": [

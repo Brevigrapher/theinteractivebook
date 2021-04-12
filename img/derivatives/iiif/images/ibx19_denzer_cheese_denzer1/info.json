@@ -5,28 +5,28 @@ layout: none
   "@context": "http://iiif.io/api/image/2/context.json",
   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx19_denzer_cheese_denzer1",
   "protocol": "http://iiif.io/api/image",
-  "width": 2382,
-  "height": 1718,
+  "width": 3000,
+  "height": 3000,
   "sizes": [
     {
-      "width": 2382,
-      "height": 1718
+      "width": 3000,
+      "height": 3000
     },
     {
       "width": 250,
-      "height": 180
+      "height": 250
     },
     {
       "width": 1140,
-      "height": 822
+      "height": 1140
     },
     {
       "width": 501,
-      "height": 361
+      "height": 501
     },
     {
       "width": 90,
-      "height": 65
+      "height": 90
     }
   ],
   "profile": [

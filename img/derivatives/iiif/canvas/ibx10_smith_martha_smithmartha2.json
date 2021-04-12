@@ -5,8 +5,8 @@ layout: none
   "@type": "sc:Canvas",
   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx10_smith_martha_smithmartha2.json",
   "label": "Page 2",
-  "width": 3009,
-  "height": 3683,
+  "width": 3893,
+  "height": 2641,
   "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx10_smith_martha_smithmartha2/full/250,/0/default.jpg",
   "images": [
     {
@@ -22,8 +22,8 @@ layout: none
           "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx10_smith_martha_smithmartha2",
           "profile": "http://iiif.io/api/image/2/level0.json"
         },
-        "width": 3009,
-        "height": 3683
+        "width": 3893,
+        "height": 2641
       },
       "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx10_smith_martha_smithmartha2.json"
     }

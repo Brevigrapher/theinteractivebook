@@ -14,8 +14,8 @@ layout: none
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx2_beze_beze3",
       "profile": "http://iiif.io/api/image/2/level0.json"
     },
-    "width": 3652,
-    "height": 2915
+    "width": 3350,
+    "height": 2719
   },
   "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx2_beze_beze3.json",
   "@context": "http://iiif.io/api/presentation/2/context.json"

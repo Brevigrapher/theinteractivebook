@@ -5,28 +5,28 @@ layout: none
   "@context": "http://iiif.io/api/image/2/context.json",
   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx10_smith_martha_smithmartha3",
   "protocol": "http://iiif.io/api/image",
-  "width": 3021,
-  "height": 3803,
+  "width": 3009,
+  "height": 3683,
   "sizes": [
     {
-      "width": 3021,
-      "height": 3803
+      "width": 3009,
+      "height": 3683
     },
     {
       "width": 250,
-      "height": 315
+      "height": 306
     },
     {
       "width": 1140,
-      "height": 1435
+      "height": 1395
     },
     {
       "width": 501,
-      "height": 631
+      "height": 613
     },
     {
       "width": 90,
-      "height": 113
+      "height": 110
     }
   ],
   "profile": [

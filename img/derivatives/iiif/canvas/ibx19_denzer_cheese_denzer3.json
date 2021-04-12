@@ -1,0 +1,32 @@
+---
+layout: none
+---
+{
+  "@type": "sc:Canvas",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx19_denzer_cheese_denzer3.json",
+  "label": "Page 3",
+  "width": 5142,
+  "height": 3000,
+  "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx19_denzer_cheese_denzer3/full/250,/0/default.jpg",
+  "images": [
+    {
+      "@type": "oa:Annotation",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx19_denzer_cheese_denzer3.json",
+      "motivation": "sc:painting",
+      "resource": {
+        "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx19_denzer_cheese_denzer3/full/full/0/default.jpg",
+        "@type": "dcterms:Image",
+        "format": "image/jpeg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx19_denzer_cheese_denzer3",
+          "profile": "http://iiif.io/api/image/2/level0.json"
+        },
+        "width": 5142,
+        "height": 3000
+      },
+      "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx19_denzer_cheese_denzer3.json"
+    }
+  ],
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}

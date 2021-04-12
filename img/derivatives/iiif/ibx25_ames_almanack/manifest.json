@@ -6,47 +6,159 @@ layout: none
   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ibx25_ames_almanack/manifest.json",
   "@type": "sc:Manifest",
   "label": "ibx25_ames_almanack",
-  "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx25_ames_almanack/full/250,/0/default.jpg",
+  "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx25_ames_almanack_almanack1/full/250,/0/default.jpg",
   "viewingDirection": "left-to-right",
   "viewingHint": "individuals",
   "sequences": [
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/sequence/ibx25_ames_almanack.json",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/sequence/ibx25_ames_almanack_almanack1.json",
       "@type": "sc:Sequence",
       "canvases": [
         {
           "@type": "sc:Canvas",
-          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx25_ames_almanack.json",
-          "label": "front",
-          "width": 3207,
-          "height": 2835,
-          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx25_ames_almanack/full/250,/0/default.jpg",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx25_ames_almanack_almanack1.json",
+          "label": "Page 1",
+          "width": 3407,
+          "height": 2874,
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx25_ames_almanack_almanack1/full/250,/0/default.jpg",
           "images": [
             {
               "@type": "oa:Annotation",
-              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx25_ames_almanack.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx25_ames_almanack_almanack1.json",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx25_ames_almanack/full/full/0/default.jpg",
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx25_ames_almanack_almanack1/full/full/0/default.jpg",
                 "@type": "dcterms:Image",
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx25_ames_almanack",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx25_ames_almanack_almanack1",
                   "profile": "http://iiif.io/api/image/2/level0.json"
                 },
-                "width": 3207,
-                "height": 2835
+                "width": 3407,
+                "height": 2874
               },
-              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx25_ames_almanack.json"
+              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx25_ames_almanack_almanack1.json"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx25_ames_almanack_almanack2.json",
+          "label": "Page 2",
+          "width": 3095,
+          "height": 2958,
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx25_ames_almanack_almanack2/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx25_ames_almanack_almanack2.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx25_ames_almanack_almanack2/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx25_ames_almanack_almanack2",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 3095,
+                "height": 2958
+              },
+              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx25_ames_almanack_almanack2.json"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx25_ames_almanack_almanack3.json",
+          "label": "Page 3",
+          "width": 2977,
+          "height": 2919,
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx25_ames_almanack_almanack3/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx25_ames_almanack_almanack3.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx25_ames_almanack_almanack3/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx25_ames_almanack_almanack3",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 2977,
+                "height": 2919
+              },
+              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx25_ames_almanack_almanack3.json"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx25_ames_almanack_almanack4.json",
+          "label": "Page 4",
+          "width": 2588,
+          "height": 3690,
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx25_ames_almanack_almanack4/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx25_ames_almanack_almanack4.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx25_ames_almanack_almanack4/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx25_ames_almanack_almanack4",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 2588,
+                "height": 3690
+              },
+              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx25_ames_almanack_almanack4.json"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx25_ames_almanack_almanack5.json",
+          "label": "Page 5",
+          "width": 2610,
+          "height": 3762,
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx25_ames_almanack_almanack5/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx25_ames_almanack_almanack5.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx25_ames_almanack_almanack5/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx25_ames_almanack_almanack5",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 2610,
+                "height": 3762
+              },
+              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx25_ames_almanack_almanack5.json"
             }
           ]
         }
       ]
     }
   ],
-  "full": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx25_ames_almanack/full/full/0/default.jpg",
-  "fullwidth": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx25_ames_almanack/full/1140,/0/default.jpg",
-  "osd": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx25_ames_almanack/full/501,/0/default.jpg",
-  "tiny": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx25_ames_almanack/full/90,/0/default.jpg"
+  "full": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx25_ames_almanack_almanack1/full/full/0/default.jpg",
+  "fullwidth": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx25_ames_almanack_almanack1/full/1140,/0/default.jpg",
+  "osd": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx25_ames_almanack_almanack1/full/501,/0/default.jpg",
+  "tiny": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx25_ames_almanack_almanack1/full/90,/0/default.jpg"
 }

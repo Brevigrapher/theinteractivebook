@@ -37,8 +37,8 @@ layout: none
       "@type": "sc:Canvas",
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx5_radcliffe_radcliffe2.json",
       "label": "Page 2",
-      "width": 1445,
-      "height": 2290,
+      "width": 2750,
+      "height": 3860,
       "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx5_radcliffe_radcliffe2/full/250,/0/default.jpg",
       "images": [
         {
@@ -54,10 +54,94 @@ layout: none
               "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx5_radcliffe_radcliffe2",
               "profile": "http://iiif.io/api/image/2/level0.json"
             },
+            "width": 2750,
+            "height": 3860
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx5_radcliffe_radcliffe2.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx5_radcliffe_radcliffe3.json",
+      "label": "Page 3",
+      "width": 1445,
+      "height": 2290,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx5_radcliffe_radcliffe3/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx5_radcliffe_radcliffe3.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx5_radcliffe_radcliffe3/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx5_radcliffe_radcliffe3",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
             "width": 1445,
             "height": 2290
           },
-          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx5_radcliffe_radcliffe2.json"
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx5_radcliffe_radcliffe3.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx5_radcliffe_radcliffe4.json",
+      "label": "Page 4",
+      "width": 2335,
+      "height": 3498,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx5_radcliffe_radcliffe4/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx5_radcliffe_radcliffe4.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx5_radcliffe_radcliffe4/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx5_radcliffe_radcliffe4",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 2335,
+            "height": 3498
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx5_radcliffe_radcliffe4.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx5_radcliffe_radcliffe5.json",
+      "label": "Page 5",
+      "width": 2581,
+      "height": 3794,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx5_radcliffe_radcliffe5/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/ibx5_radcliffe_radcliffe5.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx5_radcliffe_radcliffe5/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ibx5_radcliffe_radcliffe5",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 2581,
+            "height": 3794
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/ibx5_radcliffe_radcliffe5.json"
         }
       ]
     }
