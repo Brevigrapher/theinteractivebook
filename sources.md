@@ -5,7 +5,7 @@ permalink: /sources/
 banner:
   collection: ibx
   pid: ibx10_smith_martha
-  y: 60%
+  y: 50%
   height: 600px
 ---
 ### Selected Sources
