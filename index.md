@@ -5,7 +5,7 @@ banner:
   collection: ibx
   pid: ibx2_beze
   y: 45%
-  height: 500px
+  height: 600px
 ---
 ## Introduction
 
