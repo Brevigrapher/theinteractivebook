@@ -4,8 +4,8 @@ title: Sources
 permalink: /sources/
 banner:
   collection: ibx
-  pid: ibx11_blechynden
-  y: 35%
+  pid: ibx3_camden
+  y: 40%
   height: 600px
 ---
 ### Selected Sources
