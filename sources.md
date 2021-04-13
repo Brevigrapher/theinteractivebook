@@ -4,8 +4,8 @@ title: Sources
 permalink: /sources/
 banner:
   collection: ibx
-  pid: ibx10_smith_martha
-  y: 50%
+  pid: ibx11_blechynden_martha
+  y: 40%
   height: 600px
 ---
 ### Selected Sources
