@@ -4,7 +4,7 @@ title: Sources
 permalink: /sources/
 banner:
   collection: ibx
-  pid: ibx3_camden
+  pid: ibx10_smith_martha
   y: 40%
   height: 600px
 ---
