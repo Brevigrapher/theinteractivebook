@@ -5,7 +5,7 @@ permalink: /sources/
 banner:
   collection: ibx
   pid: ibx11_blechynden
-  y: 40%
+  y: 35%
   height: 600px
 ---
 ### Selected Sources
