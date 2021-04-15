@@ -6,7 +6,7 @@ banner:
   collection: ibx
   pid: ibx21_archer
   height: 600px
-  y: 50%
+  y: 40%
 ---
 
 ### About the Curator
